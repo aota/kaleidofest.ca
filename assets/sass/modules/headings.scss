@@ -1,0 +1,31 @@
+h1, .alpha {
+	color: $primary-color;
+	font-size: $alpha;
+	font-family: $alt-font-family;
+	font-weight: 400;
+}
+
+h2, .beta {
+	color: $secondary-color;
+	font-size: $beta;
+}
+
+h3, .gamma {
+	// color: $secondary-color;
+	font-size: $gamma;
+}
+
+h4, .delta {
+	// color: $secondary-color;
+	font-size: $delta;
+}
+
+h5, .epsilon {
+	// color: $secondary-color;
+	font-size: $epsilon;
+}
+
+h6, .zeta {
+	// color: $secondary-color;
+	font-size: $zeta;
+}

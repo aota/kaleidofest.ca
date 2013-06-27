@@ -1,0 +1,54 @@
+// custom vars
+// see foundation/variables.scss for Foundation settings.
+
+// colors etc...
+$white: #fff;
+$black: #000;
+
+$primary-color: #d55a1d;
+$secondary-color: #115468;
+
+$orange: #e4b217;
+// $red: #DA4E2B;
+// $orange: #91832A;
+$baige: rgb(254,251,220);
+
+
+// font families
+$header-font-family: 'effra'; // 500, 500i
+$header-font-weight: 500;
+$alt-font-family: 'lexia'; // 400
+
+// type sizes
+$tera: 117px;
+$giga: 90px;
+$mega: 72px;
+
+$alpha: 48px;
+$beta: 32px;
+$gamma: 24px;
+$delta: 21px;
+$epsilon: 18px;
+$zeta: 18px;
+
+$milli: 15px;
+$micro: 12px;
+
+
+
+
+// bourbon.io mixins
+@import "bourbon/bourbon";
+
+// normalize.css and Foundation (stand-alone)
+@import "normalize";
+// @import "typeplate";
+@import "foundation";
+@import "foundation-overrides";
+
+
+// SMACSS modules
+@import "base";
+@import "modules/layout";
+@import "modules/headings";
+@import "modules/banner";

@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width" />
+  <title>{{ site.name }}</title>
+  {% if page.permalink %}<link rel="canonical" href="{{ site.url }}{{ page.permalink }}">{% endif %}
+  <link rel="stylesheet" href="{{ site.assets }}css/main.css" />
+
+  <script src="{{ site.assets }}js/vendor/custom.modernizr.js"></script>
+
+  <script type="text/javascript" src="//use.typekit.net/zbv5emm.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+</head>
+<body>
+
+
+<div class="l-utility">
+  <div class="row">
+    <div class="column">
+      <p class="right">
+        Produced by
+        <a href="http://artsontheave.org">Arts on the Ave</a> |
+        <a href="http://www.facebook.com/pages/Kaleido-Family-Arts-Festival/197734780274855">Facebook</a> |
+        <a href="http://twitter.com/KaleidoFestival">Twitter</a>
+      </p>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="banner">
+  <div class="row">
+    <div class="large-12 columns">
+    {% if page.banner %}
+    {% capture banner_count %}{{ page.banner | size }}{% endcapture %}
+      {% if banner_count == '1' %}
+        <img src="{{ page.banner }}" alt="" />
+      {% else %}
+        <ul data-orbit>
+        {% for slide in page.banner %}
+          <li><img src="{{ slide }}" alt="" /></li>
+        {% endfor %}
+        </ul>
+      {% endif %}
+    {% else %}
+      <img src="{{ site.assets }}img/banner-small.jpg" alt="" />
+    {% endif %}
+    </div>
+  </div>
+</div>
+
+
+<div class="top-bar-wrap">
+  <div class="row">
+    <!-- <div class="columns"> -->
+      <nav class="top-bar">
+
+        <ul class="title-area">
+          <!-- Title Area -->
+          <li class="name">
+            {% comment %}<h1><a href="#">Clickable Top Bar</a></h1>{% endcomment %}
+          </li>
+          <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+          <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+        </ul>
+
+
+        <section class="top-bar-section">
+
+          <ul class="left">
+            <li><a href="/">Home</a></li>
+            <!-- <li class="has-dropdown"><a href="/about/">About</a>
+              <ul class="dropdown">
+                <li><a href="/about/greetings/">Greetings</a></li>
+                <li><a href="/about/photos/">Photos</a></li>
+              </ul>
+            </li>
+            <li><a href="/schedule/">Schedule</a></li>
+            <li class="has-dropdown"><a href="#">What's On</a>
+              <ul class="dropdown">
+                <li><a href="/whats-on/theatre/">Theatre</a></li>
+                <li><a href="/whats-on/lantern-parade/">Lantern Parade</a></li>
+                <li><a href="/whats-on/arts-wares/">Arts &amp; Wares</a></li>
+                <li><a href="/whats-on/show-shine/">Show &amp; Shine</a></li>
+              </ul>
+            </li>
+            <li><a href="/sponsors/">Sponsors</a></li> -->
+            <li><a href="/volunteer/">Volunteer</a></li>
+            <li><a href="/location/">Location</a></li>
+            <li><a href="/news/">News</a></li>
+          </ul>
+
+
+          {% comment %}
+          <!-- Right Nav Section -->
+          <ul class="right">
+            <li class="divider hide-for-small"></li>
+            <li class="has-dropdown"><a href="#">Main Item 1</a>
+
+              <ul class="dropdown"><li class="title back js-generated"><h5><a href="#">« Back</a></h5></li>
+                <li class=""><label>Dropdown Level 1 Label</label></li>
+                <li class="has-dropdown"><a href="#" class="">Dropdown Level 1a</a>
+
+                  <ul class="dropdown"><li class="title back js-generated"><h5><a href="#">« Back</a></h5></li>
+                    <li class=""><a href="#">Dropdown Level 2a</a></li>
+                    <li class=""><a href="#">Dropdown Level 2b</a></li>
+                    <li class="has-dropdown"><a href="#">Dropdown Level 2c</a>
+
+                      <ul class="dropdown"><li class="title back js-generated"><h5><a href="#">« Back</a></h5></li>
+                        <li class=""><a href="#">Dropdown Level 3a</a></li>
+                        <li class=""><a href="#">Dropdown Level 3b</a></li>
+                        <li class=""><a href="#">Dropdown Level 3c</a></li>
+                      </ul>
+                    </li>
+                    <li class=""><a href="#">Dropdown Level 2d</a></li>
+                    <li class=""><a href="#">Dropdown Level 2e</a></li>
+                    <li class=""><a href="#">Dropdown Level 2f</a></li>
+                  </ul>
+                </li>
+                <li class=""><a href="#">Dropdown Level 1b</a></li>
+                <li class=""><a href="#">Dropdown Level 1c</a></li>
+                <li class="divider"></li>
+                <li class=""><label>Dropdown Level 1 Label</label></li>
+                <li class=""><a href="#">Dropdown Level 1d</a></li>
+                <li class=""><a href="#">Dropdown Level 1e</a></li>
+                <li class=""><a href="#">Dropdown Level 1f</a></li>
+                <li class="divider"></li>
+                <li class=""><a href="#">See all →</a></li>
+              </ul>
+            </li>
+          </ul>
+          {% endcomment %}
+
+        </section>
+      </nav>
+    <!-- </div> -->
+  </div>
+</div>
+
+
+  {{ content }}
+
+
+  <!-- Footer -->
+
+  <footer class="row">
+    <div class="large-12 columns">
+      <hr />
+      <div class="row">
+        <div class="large-6 columns">
+          <p>&copy; Copyright <a href="http://artsontheave.org">Arts on the Ave</a></p>
+        </div>
+        <div class="large-6 columns">
+          <ul class="inline-list right">
+            <li><a href="/volunteer/">Volunteer</a></li>
+            <li><a href="/location/">Location</a></li>
+            <li><a href="/news/">News</a></li>
+            <!-- <li><a href="/contact">Contact</a></li> -->
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+
+  <script>
+    document.write('<script src=' +
+    ('__proto__' in {} ? '{{ site.assets }}js/vendor/zepto' : '{{ site.assets }}js/vendor/jquery') +
+    '.js><\/script>')
+  </script>
+
+  <script src="{{ site.assets }}js/foundation/foundation.js"></script>
+  <script src="{{ site.assets }}js/foundation/foundation.orbit.js"></script>
+  <script src="{{ site.assets }}js/foundation/foundation.topbar.js"></script>
+  <script src="{{ site.assets }}js/foundation/foundation.dropdown.js"></script>
+
+  <script>
+    $(document).foundation();
+  </script>
+
+</body>
+</html>
