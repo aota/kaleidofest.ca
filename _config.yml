@@ -12,4 +12,4 @@ uploads: /uploads/
 
 prose:
   siteurl: http://kaleidofest.ca
-  media: /uploads/
+  media: uploads
