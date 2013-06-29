@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: volunteer/
+permalink: /volunteer/
 title: Volunteer
 ---
 

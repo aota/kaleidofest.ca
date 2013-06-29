@@ -5,15 +5,29 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width" />
-  <title>{{ site.name }}</title>
-  {% if page.permalink %}<link rel="canonical" href="{{ site.url }}{{ page.permalink }}">{% endif %}
+  <title>{% unless page.url == '/' %}{{ page.title }} | {% endunless %}{{ site.name }}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  {% if page.permalink %}<link rel="canonical" href="{{ site.url }}{{ page.url }}">{% endif %}
   <link rel="stylesheet" href="{{ site.assets }}css/main.css" />
+  <link rel="shortcut icon" href="/favicon.png">
 
   <script src="{{ site.assets }}js/vendor/custom.modernizr.js"></script>
 
   <script type="text/javascript" src="//use.typekit.net/zbv5emm.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
+  {% comment %}
+    see http://developers.facebook.com/docs/opengraph/creating-object-types/#properties
+    <meta name="og:image" content="{% if page.image %}{{ site.url }}/{{ page.image }}{% else %}{{ site.url }}{{ site.assetpath }}images/logo-lift.png{% endif %}" />
+  {% endcomment %}
+  <!-- facebook open graph meta tags -->
+  <meta name="og:title" content="{{ page.title }}" />
+  <meta name="og:url" content="{{ site.url }}{{ page.url }}" />
+
+  <meta name="og:type" content="{% if page.date %}article{% else %}website{% endif %}" />
+  <meta name="og:description" content="{% if page.description %}{{ page.description }}{% else %}{% if page.lead %}{{ page.lead }}{% else %}{{ site.description }}{% endif %}{% endif %}">
+  <meta name='og:site_name' content='{{ site.name }}'>
+  <meta name='fb:page_id' content='197734780274855'>
 </head>
 <body>
 
