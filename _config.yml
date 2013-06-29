@@ -1,7 +1,15 @@
+permalink: /log/:title/
+relative_permalinks: false
 markdown: rdiscount
+timezone: America/Edmonton
+exclude: [.gitignore, .editorconfig, Gemfile, Gemfile.lock, README.md, assets/sass]
 
-name: Kaleido Family Festival
+name: Kaleido Family Arts Festival
 url: http://kaleidofest.ca
-
+descripiton: Kaleido Family Arts Festival
 assets: /assets/
-uploads: /assets/uploads/
+uploads: /uploads/
+
+prose:
+  siteurl: http://kaleidofest.ca
+  media: /uploads/
