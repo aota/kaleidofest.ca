@@ -33,6 +33,6 @@ There are many spaces to park, but if you can walk or take transit it helps thos
 
 ## Road Closures at Kaleido
 
-118th Ave will be closed from 91-94th street from Friday, September 7, 2012 at 3 PM until Sunday, September 9, 2012 at 8 PM to make way for the Kaleido Family Arts Festival.
+118th Ave will be closed from 91-94th street from Friday, September 13, 2013 at 3 PM until Sunday, September 15, 2013 at 8 PM to make way for the Kaleido Family Arts Festival.
 
 ![map of road closures]({{ site.assets }}img/kaleido-road-closures.png)

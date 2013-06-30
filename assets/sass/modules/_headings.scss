@@ -17,7 +17,7 @@ h2, .beta {
 }
 
 h3, .gamma {
-	// color: $secondary-color;
+	color: $secondary-color;
 	font-size: $delta;
   @media #{$small} {
     font-size: $gamma;
