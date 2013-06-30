@@ -2,6 +2,7 @@
 layout: default
 permalink: /volunteer/
 title: Volunteer
+side: side_volunteer.md
 ---
 
 # Be a Kaleido Volunteer

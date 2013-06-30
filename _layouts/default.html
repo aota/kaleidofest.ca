@@ -7,6 +7,14 @@ layout: base
     {{ content }}
   </div>
   <div class="large-4 columns">
-    <!-- {{ page.title }} -->
+    {% capture key %}{{ page.title | downcase }}{% endcapture %}
+    {% case key %}
+      {% when 'volunteer' %}
+        {% capture sidebar %}{% include side_volunteer.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
+      {% when 'news' %}
+        {% capture sidebar %}{% include side_news.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
+    {% endcase %}
   </div>
 </div>
