@@ -2,7 +2,7 @@ permalink: /log/:title/
 relative_permalinks: false
 markdown: rdiscount
 timezone: America/Edmonton
-exclude: [.gitignore, .editorconfig, Gemfile, Gemfile.lock, README.md, assets/sass]
+exclude: [.gitignore, .editorconfig, Gemfile, Gemfile.lock, README.md, 'sass']
 
 name: Kaleido Family Arts Festival
 url: http://kaleidofest.ca
