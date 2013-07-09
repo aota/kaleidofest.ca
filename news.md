@@ -12,23 +12,23 @@ Download the [submission application]({{ site.uploads }}call-for-submissions.pdf
 
 ### Call for Visual Artists
 
-**Deadline is July 2nd** <br>
-Contact Stacey at <kaleidogallery@gmail.com> for info
+**Deadline is July 12th** <br>
+Contact Rachelle at <kaleidogallery@gmail.com> for info
 
 ### Call for Artisan Market
 **Deadline July 2nd** <br>
-Contact Rachelle at <kaleidomarket@gmail.com> for info
+Contact Stacey at <kaleidomarket@gmail.com> for info
 
 ### Carrot Window Display Installation
 **Call for submissions - Deadline July 2nd** <br>
 Contact Rachelle at <kaleidomarket@gmail.com> for info
 
 ### 12x12 Installation Challenge
-**Call for submissions - Deadline July 1st** <br>
+**Call for submissions - Deadline July 31st** <br>
 Email <kaleidoinstallations@gmail.com>
 
 ### Deck out a Lampost Contest
-**Call for submissions - Deadline July 1st** <br>
+**Call for submissions - Deadline July 31st** <br>
 Email <kaleidoinstallations@gmail.com>
 
 ### Register for Show & Shine
