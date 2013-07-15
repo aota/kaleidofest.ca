@@ -14,17 +14,19 @@ Volunteer forms are available for download  here: [Kaleido Volunteer Form 2013](
 
 ## Meet, Greet & Sign Up (bring your friends)!
 
-**Date and time to be announced.**
-
 Meet other people involved with Kaleido!
-Get Festival leaks about who’s coming & what’s happening
+Get Festival leaks about who’s coming & what’s happening.
 Eat! Have fun!
+
+**July 16th at the Community League at 6-8pm**
+
+**August 13th at the Community League at 6-8pm**
 
 RSVP required
 
 ## Festival Training & Orientation
 
-**Date and time to be announced.**
+**September 10th at the Community League from 6-9pm**
 
 Meet the team you’ll be working with & learn your job.
 Get your festival t-shirt!
