@@ -1,0 +1,44 @@
+---
+layout: base
+---
+
+<div class="row">
+  <div class="column">
+    {% if page.headline %}<h1>{{ page.headline }}</h1>{% endif %}
+    <div id="map" class="map"></div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="columns large-8">
+    {{ content }}
+  </div>
+  <div class="columns large-4">
+  <!-- download PDF map -->
+  </div>
+</div>
+
+
+<script>
+  // initialize the map on the "map" div
+  var opts = {
+    scrollWheelZoom: false,
+    center: [-67.34,-68.91],
+    zoom: 2,
+    // center: [-73.07,-76.46],
+    // zoom: 3,
+    zoomControl: !Modernizr.touch,
+    fullscreenControl: true,
+    attributionControl: false
+  };
+
+  var map = L.map('map', opts);
+
+  // festival map image TMS layer
+  L.tileLayer('/maptiles/{z}/{x}/{y}.png', {
+      maxZoom: 5,
+      minZoom: 2,
+      tms: true
+  }).addTo(map);
+
+</script>

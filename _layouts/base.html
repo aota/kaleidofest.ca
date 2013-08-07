@@ -16,6 +16,14 @@
   <script type="text/javascript" src="//use.typekit.net/zbv5emm.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
+  <!--[if lte IE 8]>
+      <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.ie.css" />
+  <![endif]-->
+  <link rel="stylesheet" href="{{ site.assets }}js/vendor/Leaflet.fullscreen/leaflet.fullscreen.css">
+  <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+  <script src="{{ site.assets }}js/vendor/Leaflet.fullscreen/Leaflet.fullscreen.js"></script>
+
   {% comment %}
     see http://developers.facebook.com/docs/opengraph/creating-object-types/#properties
     <meta name="og:image" content="{% if page.image %}{{ site.url }}/{{ page.image }}{% else %}{{ site.url }}{{ site.assetpath }}images/logo-lift.png{% endif %}" />
@@ -88,14 +96,9 @@
 
           <ul class="left">
             <li><a href="/">Home</a></li>
-            <li><a href="/about/">About</a></li>
-            <!-- <li class="has-dropdown"><a href="/about/">About</a>
-              <ul class="dropdown">
-                <li><a href="/about/greetings/">Greetings</a></li>
-                <li><a href="/about/photos/">Photos</a></li>
-              </ul>
-            </li>
-            <li><a href="/schedule/">Schedule</a></li>
+            <li><a href="/location/">Location</a></li>
+            <!-- <li><a href="/schedule/">Schedule</a></li> -->
+            <!--
             <li class="has-dropdown"><a href="#">What's On</a>
               <ul class="dropdown">
                 <li><a href="/whats-on/theatre/">Theatre</a></li>
@@ -105,11 +108,22 @@
               </ul>
             </li>
             <li><a href="/sponsors/">Sponsors</a></li> -->
-            <li><a href="/volunteer/">Volunteer</a></li>
-            <li><a href="/location/">Location</a></li>
+            <li class="has-dropdown"><a href="/about/">About</a>
+              <ul class="dropdown">
+                <!-- <li><a href="/about/greetings/">Greetings</a></li> -->
+                <!-- <li><a href="/about/sponsors/">Sponsors</a></li> -->
+                <li><a href="/media/">Media</a></li>
+                <!-- <li><a href="/about/photos/">Photo Gallery</a></li> -->
+              </ul>
+            </li>
+            <li class="has-dropdown"><a href="#">Get Involved</a>
+              <ul class="dropdown">
+                <li><a href="/volunteer/">Volunteer</a></li>
+                <li><a href="/donate/">Donate</a></li>
+              </ul>
+            </li>
             <li><a href="/news/">News</a></li>
             <li><a href="/media/">Media</a></li>
-            <li><a href="/donate/">Donate</a></li>
           </ul>
 
 
@@ -178,6 +192,7 @@
             <li><a href="/volunteer/">Volunteer</a></li>
             <li><a href="/location/">Location</a></li>
             <li><a href="/news/">News</a></li>
+            <!-- <li><a href="/sponsors/">Sponsors</a></li> -->
           </ul>
         </div>
       </div>
