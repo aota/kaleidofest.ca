@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: map
 permalink: /location/
 title: Location
+headline: Getting to Kaleido
 ---
-
-# Getting to Kaleido
 
 Kaleido Festival is located in the heart of Edmonton’s newest arts district, Alberta Avenue.
 
