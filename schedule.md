@@ -22,13 +22,13 @@ title: Schedule
           </tr>
         </thead>
         <tbody>
-          <tr>
+          <tr data-artist-key="The Dude">
             <td>content here</td>
             <td>content here</td>
             <td>content here</td>
             <td>content here</td>
           </tr>
-          <tr>
+          <tr data-artist-key="Jessa">
             <td>content here</td>
             <td>content here</td>
             <td>content here</td>

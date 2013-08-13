@@ -191,6 +191,8 @@
     '.js><\/script>')
   </script>
 
+  <script src="{{ site.assets }}js/vendor/underscore-min.js"></script>
+  <script src="{{ site.assets }}js/vendor/d3.csv.js"></script>
   <script src="{{ site.assets }}js/foundation/foundation.js"></script>
   <script src="{{ site.assets }}js/foundation/foundation.orbit.js"></script>
   <script src="{{ site.assets }}js/foundation/foundation.topbar.js"></script>
@@ -199,6 +201,35 @@
 
   <script>
     $(document).foundation();
+
+    // link artists in schedule to data from Google spreadsheet
+    if(true) {
+      d3.csv("https://docs.google.com/spreadsheet/pub?key=0AoKtH4sykA8IdFRjOWhoN0ZwaWtjbEV5cTM0VFEyRmc&single=true&gid=0&output=csv", function(data) {
+        console.log(data)
+
+
+
+        // capture interaction artist bio popups
+        $('.timetable > tbody > tr').mouseover(function(){
+          var key = $(this).data('artist-key')
+          var artist = false
+
+          if (!key) return;
+
+          artist = _.find(data, function(item){
+            return $.trim( item.Artist ) === key
+          })
+
+          if (!artist) return;
+
+          console.log(artist)
+
+
+        })
+
+
+      })
+    }
   </script>
 
   <!-- Google Analytics -->
