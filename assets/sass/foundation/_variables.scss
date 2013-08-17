@@ -1010,7 +1010,7 @@ $paragraph-margin-bottom: emCalc(14px);
 
 // $section-border-size: 1px;
 // $section-border-style: solid;
-// $section-border-color: #ccc;
+$section-border-color: #ccc;
 
 // Font controls
 
@@ -1128,13 +1128,13 @@ $paragraph-margin-bottom: emCalc(14px);
 // Background color for the table and even rows
 
 // $table-bg: #fff;
-// $table-even-row-bg: #f9f9f9;
+$table-even-row-bg: rgb(249,232,217);
 
 // Table cell border style
 
 // $table-border-style: solid;
 // $table-border-size: 1px;
-// $table-border-color: #ddd;
+$table-border-color: $orange;
 
 // Table head styles
 
