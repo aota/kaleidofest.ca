@@ -10,7 +10,7 @@ published: true
 
 Kaleido Family Arts Festival is located in the heart of Edmonton’s newest arts district, Alberta Avenue.
 
-Discover the action **along 118<sup>th</sup> Ave, between 90 and 94th streets** and beyond. <!-- You can view our full venue list and map here. -->
+Discover the action **along 118<sup>th</sup> Ave, between 90 and 94<sup>th</sup> streets** and beyond. <!-- You can view our full venue list and map here. -->
 
 Once you arrive it won’t be difficult to find us – just look for people singing from rooftops, dancing on walls, painting on the street, decorating a lamp post or performing in a local playground. Art is everywhere at Kaleido!
 
