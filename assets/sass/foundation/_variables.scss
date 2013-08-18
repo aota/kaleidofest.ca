@@ -136,8 +136,8 @@ $default-float: left;
 
 // Heading font styles
 
-$header-font-family: 'effra', Georgia, 'Times New Roman', serif;
-// $header-font-weight: bold;
+$header-font-family: 'jaf-bernino-sans-comp'; // 400, 700
+$header-font-weight: 400;
 // $header-font-style: normal;
 // $header-font-color: #222;
 $header-line-height: 1.2;
@@ -1010,11 +1010,11 @@ $paragraph-margin-bottom: emCalc(14px);
 
 // $section-border-size: 1px;
 // $section-border-style: solid;
-// $section-border-color: #ccc;
+// $section-border-color: $orange;
 
 // Font controls
 
-// $section-font-size: emCalc(14px);
+$section-font-size: emCalc(16px);
 
 // Control the color of the background and some size options
 
@@ -1128,13 +1128,13 @@ $paragraph-margin-bottom: emCalc(14px);
 // Background color for the table and even rows
 
 // $table-bg: #fff;
-// $table-even-row-bg: #f9f9f9;
+$table-even-row-bg: rgb(249,232,217);
 
 // Table cell border style
 
 // $table-border-style: solid;
 // $table-border-size: 1px;
-// $table-border-color: #ddd;
+$table-border-color: $orange;
 
 // Table head styles
 
@@ -1234,7 +1234,7 @@ $topbar-dropdown-bg: $primary-color;
 // $topbar-link-color-hover: #fff;
 // $topbar-link-color-active: #fff;
 $topbar-link-weight: 400;
-$topbar-link-font-size: emCalc(18px);
+$topbar-link-font-size: emCalc(22px);
 // $topbar-link-hover-lightness: -30%; // Darken by 30%
 // $topbar-link-bg-hover: darken($topbar-bg, 3%);
 // $topbar-link-bg-active: darken($topbar-bg, 3%);

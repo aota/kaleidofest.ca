@@ -1,8 +1,8 @@
 h1, .alpha {
 	color: $primary-color;
 	font-size: $beta;
-	font-family: $alt-font-family;
-	font-weight: 400;
+	// font-family: $alt-font-family;
+	font-weight: 700;
   @media #{$small} {
     font-size: $alpha;
   }
@@ -43,4 +43,13 @@ h5, .epsilon {
 h6, .zeta {
 	// color: $secondary-color;
 	font-size: $zeta;
+}
+
+
+h1,h2,h3,h4,h5,h6 {
+  > small {
+    display: block;
+    line-height: 1.1;
+    color: $secondary-color;
+  }
 }

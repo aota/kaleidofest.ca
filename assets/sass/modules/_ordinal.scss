@@ -1,0 +1,16 @@
+.ordinal {
+	background: $primary-color;
+	color: #fff;
+  text-align: center;
+  display: block;
+  float: left;
+  margin-right: 0.5em;
+  line-height: $beta;
+  width: $beta;
+  height: $beta;
+	@media #{$small} {
+		width: $alpha;
+    height: $alpha;
+    line-height: $alpha;
+	}
+}

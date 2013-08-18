@@ -19,3 +19,8 @@ We're using a Sitemap generator plugin `_plugins/sitemap_generator.rb`; the catc
 
 [no-plugins]: http://jekyllrb.com/docs/plugins/
 [sitemap_gen]: https://github.com/kinnetica/jekyll-plugins
+
+
+## Misc
+
+Regex for wrapping `{10 mins}` found in schedule: `\{(\d+\s\w*)\}` replace with something like `<time class="timetable-duration">\1</time>`
