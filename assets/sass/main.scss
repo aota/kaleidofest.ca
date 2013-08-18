@@ -19,7 +19,8 @@ $baige: #f9e8d9;
 // font families
 $header-font-family: 'effra'; // 400, 400i, 500, 500i
 $header-font-weight: 500;
-$alt-font-family: 'lexia'; // 400
+$alt-font-family: 'jaf-bernino-sans-comp'; // 700
+$alt-font-weight: 700;
 
 // type sizes
 $tera: 117px;
@@ -56,3 +57,7 @@ $micro: 12px;
 @import "modules/banner";
 @import "modules/timetable";
 @import "modules/ordinal";
+@import "modules/stage";
+@import "modules/sponsor";
+
+@import "shame";

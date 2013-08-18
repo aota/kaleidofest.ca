@@ -208,7 +208,6 @@
     var bios_url = 'https://docs.google.com/spreadsheet/pub?key=0AoKtH4sykA8IdEx4RU1xaFUzemtwUXI1TnlLWlF4NlE&output=csv';
     if(true) {
       d3.csv(bios_url, function(data) {
-        console.log(data)
 
         // capture interaction artist bio popups
         $('.timetable > tbody > tr').mouseover(function(){
@@ -223,7 +222,7 @@
 
           if (!artist) return;
 
-          console.log(artist)
+          if (window.console) console.log(artist);
 
 
         })

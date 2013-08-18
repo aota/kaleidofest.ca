@@ -2,7 +2,7 @@ h1, .alpha {
 	color: $primary-color;
 	font-size: $beta;
 	font-family: $alt-font-family;
-	font-weight: 400;
+	font-weight: $alt-font-weight;
   @media #{$small} {
     font-size: $alpha;
   }
@@ -48,6 +48,8 @@ h6, .zeta {
 
 h1,h2,h3,h4,h5,h6 {
   > small {
-    white-space: nowrap;
+    display: block;
+    line-height: 1.1;
+    color: $secondary-color;
   }
 }
