@@ -1,5 +1,10 @@
 # Kaleido Family Festival website
 
+## Content Editing
+
+Most content edits can be made via [Prose](http://prose.io). Use the [AOTA](https://github.com/aota) account.
+
+
 ## Built with Jekyll for Github Pages
 
 ### Plugins
@@ -10,17 +15,20 @@ We're using a Sitemap generator plugin `_plugins/sitemap_generator.rb`; the catc
 
 ## Marked-up with Foundation
 
-
+[Foundation 4][foundation], to be specific.
 
 ## Sass mixins from Bourbon.io
 
-`sass --watch assets/sass:assets/css --style compressed`
+See [Bourbon.io][bourbon]
 
-
-[no-plugins]: http://jekyllrb.com/docs/plugins/
-[sitemap_gen]: https://github.com/kinnetica/jekyll-plugins
-
+To compile, run the following command from the root directory: `sass --watch assets/sass:assets/css --style compressed`
 
 ## Misc
 
 Regex for wrapping `{10 mins}` found in schedule: `\{(\d+\s\w*)\}` replace with something like `<time class="timetable-duration">\1</time>`
+
+
+[no-plugins]: http://jekyllrb.com/docs/plugins/
+[sitemap_gen]: https://github.com/kinnetica/jekyll-plugins
+[foundation]: http://foundation.zurb.com/
+[bourbon]: http://bourbon.io/docs/
