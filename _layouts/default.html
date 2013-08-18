@@ -12,6 +12,9 @@ layout: base
       {% when 'volunteer' %}
         {% capture sidebar %}{% include side_volunteer.md %}{% endcapture %}
         {{ sidebar | markdownify }}
+      {% when 'media' %}
+        {% capture sidebar %}{% include side_media.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
     {% endcase %}
   </div>
 </div>
