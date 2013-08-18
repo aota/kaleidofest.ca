@@ -1,4 +1,4 @@
-## Downloads
+<h2 class="alpha">Downloads</h2>
 
 <div class="row">
   <div class="columns small-6">
