@@ -9,6 +9,12 @@ layout: base
   <div class="large-4 columns">
     {% capture key %}{{ page.title | downcase }}{% endcapture %}
     {% case key %}
+      {% when 'about' %}
+        {% capture sidebar %}{% include side_about.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
+      {% when 'greetings' %}
+        {% capture sidebar %}{% include side_greetings.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
       {% when 'volunteer' %}
         {% capture sidebar %}{% include side_volunteer.md %}{% endcapture %}
         {{ sidebar | markdownify }}

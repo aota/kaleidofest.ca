@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /about/
-title: About Kaleido Family Arts Festival
+title: About
 ---
 
 # About
