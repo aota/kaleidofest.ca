@@ -1,5 +1,5 @@
 ---
-layout: schedule
+layout: full
 permalink: /schedule/
 title: Schedule
 ---
@@ -14,30 +14,16 @@ title: Schedule
 FRIDAY SCHEDULE
 **********************************************
 -->
+{% comment %}
   <section>
     <p class="title" data-section-title><a href="#friday">Friday</a></p>
     <div class="content" data-section-content data-slug="friday">
 
-      <table class="timetable">
-        <tbody>
-          <tr data-artist-key="The Dude">
-            <td>content here</td>
-            <td>content here</td>
-            <td>content here</td>
-            <td>content here</td>
-          </tr>
-          <tr data-artist-key="Jessa">
-            <td>content here</td>
-            <td>content here</td>
-            <td>content here</td>
-            <td>content here</td>
-          </tr>
-        </tbody>
-      </table>
-
+      <p>Friday's schedule coming soon...</p>
 
     </div>
   </section>
+{% endcomment %}
 
 <!--
 **********************************************
@@ -238,13 +224,16 @@ SUNDAY SCHEDULE
         <h1 class="beta"><span class="ordinal">1</span> AVENUE CENTRAL STAGE <small>9210 – 118 AVENUE | 12:00 – 6:00 pm</small></h1>
         <div class="row">
           <div class="columns large-8">
-            <h2 class="delta">FIESTA LATINA 2013</h2>
-            <p class="subheader">The Edmonton Hispanic Heritage Society</p>
+            <p><img src="{{ site.uploads }}fiesta-latina-header.jpg" alt="FIESTA LATINA 2013"></p>
+            <!-- <h2 class="delta">FIESTA LATINA 2013</h2>
+            <p class="subheader">The Edmonton Hispanic Heritage Society</p> -->
             <p>This year, Kaleido welcomes the Edmonton Hispanic Heritage Society, a non-profit organization in Edmonton dedicated to fostering a shared cultural insight when it comes to the past and future Hispanic Heritage, through local events.</p>
             <p>Fiesta Latina is a free family festival which celebrates the beginning of a very important time period for Hispanics/Latinos around the world. Fiesta Latina will feature live entertainment, folkloric dances, and traditional food. The Edmonton Hispanic Heritage Society invites you to join them in celebration at Fiesta Latina 2013.</p>
             <p>Check out soccer, food and more in the soccer fields behind the park!</p>
           </div>
-          <div class="columns large-4"></div>
+          <div class="columns large-4">
+            <p><img src="{{ site.uploads }}fiesta-latina-soccer.jpg" alt=""> <span class="caption">COPA America Soccer Tournament. <br>ENJOY IT ALL DAY!</span></p>
+          </div>
         </div>
       </section>
 
