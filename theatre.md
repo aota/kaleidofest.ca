@@ -6,7 +6,6 @@ published: true
 ---
 
 # Theatre
-## 
 
 ### The Good Thief
 **FRI 8pm | SAT 8pm | Rated M**  
@@ -14,7 +13,7 @@ This is a one-man show that presents the tale of an un-named thug, a ‘small fi
 Written by Conor McPherson, directed by Wayne Paquette, and featuring Frank Zotter.
 
 ### The Big Silly Improv Show
-**FRI 11:15pm | SAT 11:15pm | Rated M | 9210 – 118 Avenue**  
+**FRI 11:15pm | SAT 11:15pm | Rated M**  
 Rapid Fire Theatre presents Chris Craddock and Matt Alden as they thrill the assembled audience with scenes based on suggestions that the audience writes down on a slip of paper and slips into the large bowl at the front of the stage. It might be Shakespeare or a musical or a scene about room mates from Space. Who knows?
 
 ### Stories on Wheels
@@ -32,3 +31,5 @@ It’s time to dust off your finest magic words as our bumbling time traveler ta
 ### Words We ‘Ave Poetry Slam
 **SUN 4:00pm | Rated G (All Ages)**  
 Want to be moved to tears, laugh, smile or simply enjoy a play on words? Then don’t miss the Words We ‘Ave Poetry Slam! Hear poets of all ages, sharing original works, while vying for $500.00 in prizes. This event is proudly hosted by The Rat Creek Press. For more information and to register, visit www.ratcreek.org. You will receive an email confirming your acceptance. Space is limited.
+
+**All theatre is in the Alberta Avenue Community League at 9210 - 118 Avenue**
