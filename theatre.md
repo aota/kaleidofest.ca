@@ -22,6 +22,8 @@ Join Bob Rasko, a.k.a The Drummer, as he tells three stories: A Tale of Rat, How
 **SAT 3:45pm | SUN 11:45am | Rated G (All Ages)**
 It’s time to dust off your finest magic words as our bumbling time traveler takes you and the kids  on a wild ride into his (very strange) world. Combining comedy, magic and balloons Phileas’s show is one that the whole family will enjoy.
 
-
+### Words We ‘Ave Poetry Slam
+**SUN 4:00pm | Rated G (All Ages)**
+Want to be moved to tears, laugh, smile or simply enjoy a play on words? Then don’t miss the Words We ‘Ave Poetry Slam! Hear poets of all ages, sharing original works, while vying for $500.00 in prizes. This event is proudly hosted by The Rat Creek Press. For more information and to register, visit www.ratcreek.org. You will receive an email confirming your acceptance. Space is limited.
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
