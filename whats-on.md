@@ -8,7 +8,7 @@ published: true
 # What's On
 **Here's just a taste of some of the hundreds of acts Kaleido has in store for you. For all the juicy details, [download the full program.](http://cl.ly/QtEf/kaleido-program-2013-web.pdf)**
 
-## Hip Hop k-FAF Tent with SHAD!
+## Hip Hop K-FAF Tent with SHAD!
 **5:00 pm | 91 ST & 118 AVE**
 Awesome Juno Award winner SHAD joins up with some of Edmonton’s finest Hip Hop Artists to present a dynamic, energetic session.
 
