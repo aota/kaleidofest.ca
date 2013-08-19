@@ -9,7 +9,7 @@ published: true
 
 **Every dollar counts! You can donate any amount to Arts on the Ave via PayPal. Your generosity is sincerely appreciated.**
 
-Creating a free arts festival is unheard of in today’s world. So, how does Kaleido do it? With an incredible arts community, excellent supporters, super volunteers, and friends. We thank our supporters, advertisers, partners, fellow community-builders and artists for believing in the vision of Kaleido Family Arts Festival. 
+Creating a free arts festival is unheard of in today’s world. So, how does Kaleido do it? With an incredible arts community, excellent supporters, super volunteers, and friends. We thank our supporters, advertisers, partners, fellow community-builders and artists for believing in the vision of Kaleido Family Arts Festival.
 
 Our 2 and a half day festival celebrates the arts with family and encourages community members to become both artist and audience. This celebration encourages and highlights the vast pool of talented people who live and work in Alberta Avenue and surrounding communities.
 
@@ -19,11 +19,3 @@ Attracting people from the north-central communities and greater
 Edmonton, the Kaleido Family Arts Festival offers all Edmontonians
 the opportunity to experience and explore the richness and diversity
 of Edmonton’s historic Alberta Avenue. **Help us keep going & growing!**
-
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="DCD8HGY2YH342">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>

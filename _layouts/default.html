@@ -33,6 +33,9 @@ layout: base
       {% when 'workshops.md' %}
         {% capture sidebar %}{% include side_workshops.md %}{% endcapture %}
         {{ sidebar | markdownify }}
+      {% when 'donate.md' %}
+        {% capture sidebar %}{% include side_donate.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
     {% endcase %}
   </div>
 </div>
