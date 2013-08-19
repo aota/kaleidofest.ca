@@ -43,7 +43,8 @@ FRIDAY SCHEDULE
 
           <section class="stage">
             <h1 class="beta">HEADLINER: THE DODOS <small>10:15 pm | 630 CHED AVENUE CENTRAL STAGE | 9210 – 118 AVE</small></h1>
-            <p>Fabulous alt-indie pop from San Francisco.</p>
+            <p>Fabulous alt-indie pop from San Francisco. Releasing a new album, <em>Carrier</em>, on August 27<sup>th</sup>!</p>
+            <p><a href="http://www.dodosmusic.net/">Learn more on their website.</a></p>
             <!-- <p class="sponsor">Sponsored by <img src="{{ site.uploads }}logo-630ched.jpg" alt="630 CHED"></p> -->
           </section>
 
