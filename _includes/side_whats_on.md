@@ -1,5 +1,5 @@
 ![]({{ site.uploads }}wo-shad.jpg)
-<span class="caption">Hip Hop k-FAF Tent with SHAD!</span>
+<span class="caption">Hip Hop K-FAF Tent with SHAD!</span>
 
 ![]({{ site.uploads }}wo-spandyandy.jpg)
 <span class="caption">Spandy Andy</span>
