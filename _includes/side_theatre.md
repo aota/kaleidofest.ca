@@ -7,9 +7,6 @@
 ![]({{ site.uploads }}theatre-storieswheels.jpg)
 <span class="caption">Stories on Wheels</span>
 
-![]({{ site.uploads }}theatre-patter.jpg)
-<span class="caption">Rattle Rap Pitter Pound: Murmur and Myth, Stories and Sound</span>
-
 ![]({{ site.uploads }}theatre-phileas.jpg)
 <span class="caption">The Phileas Flash Show</span>
 
