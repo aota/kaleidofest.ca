@@ -5,7 +5,7 @@ title: Donate to the Kaleido Family Arts Festival
 published: true
 ---
 
-# Donate to keep our festival going & growing!
+# Donate to keep our festival growing!
 
 **Every dollar counts! You can donate any amount to Arts on the Ave via PayPal. Your generosity is sincerely appreciated.**
 
