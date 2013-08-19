@@ -1,21 +1,21 @@
 ---
 layout: default
 permalink: "/whats-on/arts-wares/"
-title: Arts & Wares
+title: "Arts & Wares"
 published: true
 ---
 
 # Arts & Wares
 
 ## Visual art Galleries
-**Check out our FOUR Visual Art Galleries!**
+**Four Visual Art Galleries to satisy your art cravings!**
+
+Every year, Kaleido Family Arts Festival features a lot of great visual artists. Be sure to feast your eyes on their amazing work - mixed media, painting, sculpture and photography just to name a few. If you find a piece you love (and we're sure you will) you can purchase it at the sales centre in the Nina Haggerty Centre for the Arts (9225 - 118 Ave). _Debit, Visa, and Mastercard accepted._
 
 1. Nina Haggerty Centre for the Arts (9225 – 118 Ave)
 2. The Parish Church of St. Faith and St. Stephen the Martyr (11725 – 93 Street)
 3. The Studio Independent Gallery (11739 – 94 St.)
 4. The Carrot Community Arts Coffeehouse (9351 – 118 Ave)
-
-Interested in shopping? The sales centre for all four art galleries is at the Nina Haggerty Centre for the Arts. Debit, Visa, and Mastercard accepted.
 
 ## Artisan village
 **On the Street – 118 Ave between 90 and 94 Streets**
