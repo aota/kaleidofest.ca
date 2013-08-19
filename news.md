@@ -1,5 +1,5 @@
 ---
-layout: full
+layout: default
 permalink: /news/
 title: News
 ---
