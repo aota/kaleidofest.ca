@@ -1,11 +1,12 @@
 ---
 layout: default
-permalink: /whats-on/theatre/
+permalink: "/whats-on/theatre/"
 title: Theatre
+published: true
 ---
 
-# Find it in the Theatre space
-## 9210 – 118 Avenue (IN THE ALBERTA AVE COMMUNITY LEAGUE)
+# Theatre
+## 9210 – 118 Avenue (in the Alberta Ave Community League)
 
 ### The Good Thief
 **FRI 8pm | SAT 8pm | Rated M**
