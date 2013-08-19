@@ -1,11 +1,12 @@
 ---
 layout: default
 permalink: "/whats-on/"
-title: What's On
+title: "What's On"
 published: true
 ---
 
 # What's On
+**Here's just a taste of some of the hundreds of acts Kaleido has in store for you. For all the juicy details, [download the full program.](http://cl.ly/QtEf/kaleido-program-2013-web.pdf)**
 
 ## Hip Hop k-FAF Tent with SHAD!
 **5:00 pm | 91 ST & 118 AVE**
