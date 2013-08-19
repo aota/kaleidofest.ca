@@ -18,8 +18,8 @@ The Kaleido Festival brings the arts to Alberta Avenue accessibly and affordably
 Attracting people from the north-central communities and greater
 Edmonton, the Kaleido Family Arts Festival offers all Edmontonians
 the opportunity to experience and explore the richness and diversity
-of Edmonton’s historic Alberta Avenue. In 2012, over 40,000 visitors
-attended the festival
+of Edmonton’s historic Alberta Avenue. **Help us keep going & growing!**
+
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
