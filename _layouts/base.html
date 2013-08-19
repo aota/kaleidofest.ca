@@ -79,95 +79,52 @@
 
 <div class="top-bar-wrap">
   <div class="row">
-    <!-- <div class="columns"> -->
-      <nav class="top-bar">
+    <nav class="top-bar">
 
-        <ul class="title-area">
-          <!-- Title Area -->
-          <li class="name">
-            {% comment %}<h1><a href="#">Clickable Top Bar</a></h1>{% endcomment %}
+      <ul class="title-area">
+        <!-- Title Area -->
+        <li class="name">
+          {% comment %}<h1><a href="#">Clickable Top Bar</a></h1>{% endcomment %}
+        </li>
+        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+        <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+      </ul>
+
+
+      <section class="top-bar-section">
+
+        <ul class="left">
+          <li><a href="/">Home</a></li>
+          <!-- <li><a href="/about/">About</a></li> -->
+          <li class="has-dropdown"><a href="/about/">About</a>
+            <ul class="dropdown">
+              <li><a href="/greetings/">Greetings</a></li>
+              <li><a href="/media/">Media</a></li>
+              <li><a href="/sponsors/">Sponsors</a></li>
+              <!-- <li><a href="/about/photos/">Photo Gallery</a></li> -->
+            </ul>
           </li>
-          <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
-          <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+          <li><a href="/location/">Location</a></li>
+          <li><a href="/schedule/">Schedule</a></li>
+          <li class="has-dropdown"><a href="/whats-on/">What's On</a>
+            <ul class="dropdown">
+              <li><a href="/whats-on/theatre/">Theatre</a></li>
+              <!-- <li><a href="/whats-on/lantern-parade/">Lantern Parade</a></li> -->
+              <!-- <li><a href="/whats-on/arts-wares/">Arts &amp; Wares</a></li> -->
+              <!-- <li><a href="/whats-on/show-shine/">Show &amp; Shine</a></li> -->
+            </ul>
+          </li>
+          <li class="has-dropdown"><a href="#">Get Involved</a>
+            <ul class="dropdown">
+              <li><a href="/volunteer/">Volunteer</a></li>
+              <li><a href="/donate/">Donate</a></li>
+            </ul>
+          </li>
+          <li><a href="/news/">News</a></li>
         </ul>
 
-
-        <section class="top-bar-section">
-
-          <ul class="left">
-            <li><a href="/">Home</a></li>
-            <!-- <li><a href="/about/">About</a></li> -->
-            <li class="has-dropdown"><a href="/about/">About</a>
-              <ul class="dropdown">
-                <li><a href="/greetings/">Greetings</a></li>
-                <li><a href="/media/">Media</a></li>
-                <li><a href="/sponsors/">Sponsors</a></li>
-                <!-- <li><a href="/about/photos/">Photo Gallery</a></li> -->
-              </ul>
-            </li>
-            <li><a href="/location/">Location</a></li>
-            <li><a href="/schedule/">Schedule</a></li>
-            <li class="has-dropdown"><a href="#">What's On</a>
-              <ul class="dropdown">
-                <li><a href="/whats-on/theatre/">Theatre</a></li>
-                <!-- <li><a href="/whats-on/lantern-parade/">Lantern Parade</a></li> -->
-                <!-- <li><a href="/whats-on/arts-wares/">Arts &amp; Wares</a></li> -->
-                <!-- <li><a href="/whats-on/show-shine/">Show &amp; Shine</a></li> -->
-              </ul>
-            </li>
-            <li class="has-dropdown"><a href="#">Get Involved</a>
-              <ul class="dropdown">
-                <li><a href="/volunteer/">Volunteer</a></li>
-                <li><a href="/donate/">Donate</a></li>
-              </ul>
-            </li>
-            <li><a href="/news/">News</a></li>
-          </ul>
-
-
-          {% comment %}
-          <!-- Right Nav Section -->
-          <ul class="right">
-            <li class="divider hide-for-small"></li>
-            <li class="has-dropdown"><a href="#">Main Item 1</a>
-
-              <ul class="dropdown"><li class="title back js-generated"><h5><a href="#">« Back</a></h5></li>
-                <li class=""><label>Dropdown Level 1 Label</label></li>
-                <li class="has-dropdown"><a href="#" class="">Dropdown Level 1a</a>
-
-                  <ul class="dropdown"><li class="title back js-generated"><h5><a href="#">« Back</a></h5></li>
-                    <li class=""><a href="#">Dropdown Level 2a</a></li>
-                    <li class=""><a href="#">Dropdown Level 2b</a></li>
-                    <li class="has-dropdown"><a href="#">Dropdown Level 2c</a>
-
-                      <ul class="dropdown"><li class="title back js-generated"><h5><a href="#">« Back</a></h5></li>
-                        <li class=""><a href="#">Dropdown Level 3a</a></li>
-                        <li class=""><a href="#">Dropdown Level 3b</a></li>
-                        <li class=""><a href="#">Dropdown Level 3c</a></li>
-                      </ul>
-                    </li>
-                    <li class=""><a href="#">Dropdown Level 2d</a></li>
-                    <li class=""><a href="#">Dropdown Level 2e</a></li>
-                    <li class=""><a href="#">Dropdown Level 2f</a></li>
-                  </ul>
-                </li>
-                <li class=""><a href="#">Dropdown Level 1b</a></li>
-                <li class=""><a href="#">Dropdown Level 1c</a></li>
-                <li class="divider"></li>
-                <li class=""><label>Dropdown Level 1 Label</label></li>
-                <li class=""><a href="#">Dropdown Level 1d</a></li>
-                <li class=""><a href="#">Dropdown Level 1e</a></li>
-                <li class=""><a href="#">Dropdown Level 1f</a></li>
-                <li class="divider"></li>
-                <li class=""><a href="#">See all →</a></li>
-              </ul>
-            </li>
-          </ul>
-          {% endcomment %}
-
-        </section>
-      </nav>
-    <!-- </div> -->
+      </section>
+    </nav>
   </div>
 </div>
 
