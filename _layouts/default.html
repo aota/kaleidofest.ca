@@ -30,6 +30,9 @@ layout: base
       {% when 'arts-wares.md' %}
         {% capture sidebar %}{% include side_arts_wares.md %}{% endcapture %}
         {{ sidebar | markdownify }}
+      {% when 'workshops.md' %}
+        {% capture sidebar %}{% include side_workshops.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
     {% endcase %}
   </div>
 </div>
