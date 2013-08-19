@@ -14,16 +14,62 @@ title: Schedule
 FRIDAY SCHEDULE
 **********************************************
 -->
-{% comment %}
   <section>
     <p class="title" data-section-title><a href="#friday">Friday</a></p>
     <div class="content" data-section-content data-slug="friday">
 
-      <p>Friday's schedule coming soon...</p>
+      <div class="row">
+        <div class="columns large-8">
+
+          <section class="stage">
+            <h1 class="beta">GALA WITH GUSTO! <small>Multi-Gallery Show & Sale Street Party</small></h1>
+            <p>Join the party between 8:00 pm and 10:00 pm and check out the Kaleido Gallery Scene, featuring visual arts and live music on the Ave (and beyond!). Enjoy four galleries filled with mixed-media works, drawings, paintings, photography, sculpture and more. Licensed street beer gardens for bevvies. <br>Beer gardens open: 8:00 pm – 10:00 pm</p>
+          </section>
+
+          <section class="stage">
+            <h1 class="beta">AURORA LANTERN PARADE <small>10:00 pm on 118 Ave and 94 Street</small></h1>
+
+            <p>Bring your lanterns and join the drummers, hoopers, dancers, singers, stiltwalkers, clowns and everyday people for our sensational Aurora Lantern Parade. This year the fascinating Chinese Lion Dance will lead us to the light and our fabulous Kaleido Kick-off Concert at Avenue Central Stage!</p>
+
+            <p>Forgot your Lantern? Don’t fret! You can create one in no time at the Nina Haggerty Centre for the Arts (9225 – 118 Ave) from 8:00 pm – 9:30 pm.</p>
+
+            <!-- <p class="sponsor">Sponsored by
+              <img src="{{ site.uploads }}logo-nina.jpg" alt="Nina Haggerty Centre for the Arts">
+              <img src="{{ site.uploads }}logo-ECF.jpg" alt="Edmonton Community Foundation">
+              <img src="{{ site.uploads }}logo-NolanDrug.jpg" alt="Nolan Drugs">
+            </p> -->
+
+          </section>
+
+          <section class="stage">
+            <h1 class="beta">HEADLINER: THE DODOS <small>10:15 pm | 630 CHED AVENUE CENTRAL STAGE | 9210 – 118 AVE</small></h1>
+            <p>Fabulous alt-indie pop from San Francisco.</p>
+            <!-- <p class="sponsor">Sponsored by <img src="{{ site.uploads }}logo-630ched.jpg" alt="630 CHED"></p> -->
+          </section>
+
+          <section class="stage">
+            <h1 class="beta">GIANT FAMILY MOVIE NIGHT <small>8:10 pm | 9210 – 118 AVE Behind the Community League</small></h1>
+            <p>Bring your own lawn chair and enjoy the big screen adventure, <em>HONEY, I SHRUNK THE KIDS!</em> Popcorn and treats available for purchase.</p>
+            <p>The scientist father of a teenage girl and boy shrinks his and two other neighborhood teens to the size of insects. Now the teens must fight diminutive dangers as the father searches for them.</p>
+
+            <p><em>|| 93 minutes || Rated G ||</em></p>
+
+            <!-- <p class="sponsor">Sponsored by <img src="{{ site.uploads }}logo-vineyardchurch.jpg" alt="Avenue Vineyard Community Church"></p> -->
+          </section>
+
+        </div>
+        <div class="columns large-4">
+          <ul class="small-block-grid-2 large-block-grid-1">
+            <li><img src="{{ site.uploads }}friday-gala1.jpg" alt=""> <span class="caption">Gala With Gusto!</span></li>
+            <li><img src="{{ site.uploads }}friday-lanternparade.jpg" alt=""> <span class="caption">Aurora Lantern Parade</span></li>
+            <li><img src="{{ site.uploads }}friday-dodos.jpg" alt=""> <span class="caption">Friday night headliners: The Dodos</span></li>
+            <li><img src="{{ site.uploads }}friday-movie.jpg" alt=""> <span class="caption">Giant Family Movie Night</span></li>
+          </ul>
+        </div>
+      </div>
 
     </div>
   </section>
-{% endcomment %}
 
 <!--
 **********************************************
@@ -80,6 +126,10 @@ SATURDAY SCHEDULE
               <li><img src="{{ site.uploads }}artist-sugar-swing.jpg" alt=""> <span class="caption">Sugar Swing Dance Club</span></li>
               <li><img src="{{ site.uploads }}artist-namori.jpg" alt=""> <span class="caption">Namori</span></li>
               <li><img src="{{ site.uploads }}artist-shad.jpg" alt=""> <span class="caption">Shad</span></li>
+            </ul>
+            <ul class="small-block-grid-2 large-block-grid-1">
+              <li><img src="{{ site.uploads }}acs-pancake-breakfast.jpg" alt=""></li>
+              <li><img src="{{ site.uploads }}acs-shad.jpg" alt=""></li>
             </ul>
           </div>
         </div>

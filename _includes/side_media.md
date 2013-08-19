@@ -11,6 +11,9 @@
   </div>
 </div>
 
+<h3>Bigbox Ad (300px by 250px)</h3>
+<a href="{{ site.uploads }}kaleido-bigbox.jpg" title="Bigbox Ad (300px by 250px)"><img src="{{ site.uploads }}kaleido-bigbox.jpg" alt="Bigbox ad image"></a>
+
 
 
 
