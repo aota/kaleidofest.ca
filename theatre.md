@@ -13,7 +13,7 @@ This is a one-man show that presents the tale of an un-named thug, a ‘small fi
 Written by Conor McPherson, directed by Wayne Paquette, and featuring Frank Zotter.
 
 ## The Big Silly Improv Show
-**FRI 11:15pm | SAT 11:15pm | Rated M**  
+**FRI 11:15pm | SAT 11:15pm | Rated M | A late night cabaret with licensed bar.**  
 Rapid Fire Theatre presents Chris Craddock and Matt Alden as they thrill the assembled audience with scenes based on suggestions that the audience writes down on a slip of paper and slips into the large bowl at the front of the stage. It might be Shakespeare or a musical or a scene about room mates from Space. Who knows?
 
 ## Stories on Wheels
