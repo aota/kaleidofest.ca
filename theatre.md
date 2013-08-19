@@ -1,3 +1,9 @@
+---
+layout: default
+permalink: /whats-on/theatre/
+title: Theatre
+---
+
 # Find it in the Theatre space
 ## 9210 – 118 Avenue (IN THE ALBERTA AVE COMMUNITY LEAGUE)
 
@@ -9,8 +15,3 @@ Written by Conor McPherson, directed by Wayne Paquette, and featuring Frank Zott
 ### The Big Silly Improv Show
 **FRI 11:15pm | SAT 11:15pm | Rated M**
 Rapid Fire Theatre presents Chris Craddock and Matt Alden as they thrill the assembled audience with scenes based on suggestions that the audience writes down on a slip of paper and slips into the large bowl at the front of the stage. It might be Shakespeare or a musical or a scene about room mates from Space. Who knows?
-
-
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
