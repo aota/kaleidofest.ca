@@ -2,9 +2,10 @@
 layout: full
 permalink: /schedule/
 title: Schedule
+published: true
 ---
 
-# Fesitval Schedule
+# Festival Schedule
 
 
 <div class="section-container auto" data-section data-options="deep_linking: true">
@@ -414,6 +415,3 @@ SUNDAY SCHEDULE
     </div>
   </section>
 </div>
-
-
-
