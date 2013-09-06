@@ -7,7 +7,7 @@
   </div>
   <div class="columns small-6">
     <h3>Program (11.2MB)</h3>
-    <a href="http://cl.ly/QtEf/kaleido-program-2013-web.pdf" title="Kaleido 2013 Program (11.2MB)"><img src="{{ site.uploads}}kaleido-program-2013-thumb.jpg" alt=""></a>
+    <a href="https://www.dropbox.com/s/q2aw21abxf75lvf/kaleido-program-2013-web.pdf" title="Kaleido 2013 Program (11.2MB)"><img src="{{ site.uploads}}kaleido-program-2013-thumb.jpg" alt=""></a>
   </div>
 </div>
 
