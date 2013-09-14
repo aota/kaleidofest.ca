@@ -7,6 +7,9 @@ published: true
 
 # News
 
+##Get Ready for more Kaleido!
+<iframe width="420" height="315" src="//www.youtube.com/embed/PJBabeKODRo" frameborder="0" allowfullscreen></iframe>
+
 ##Listen in to Kaleido Radio
 <iframe src="http://mixlr.com/kaleido/embed" width="100%" height="180px" scrolling="no" frameborder="no" marginheight="0" marginwidth="0"></iframe><small><a href="http://mixlr.com/kaleido" style="color:#1a1a1a;text-align:left; font-family:Helvetica, sans-serif; font-size:11px;">kaleido is on Mixlr</a></small>
 
