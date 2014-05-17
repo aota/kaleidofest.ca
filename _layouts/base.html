@@ -8,7 +8,7 @@
   <title>{% unless page.url == '/' %}{{ page.title }} | {% endunless %}{{ site.name }}</title>
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   {% if page.permalink %}<link rel="canonical" href="{{ site.url }}{{ page.url }}">{% endif %}
-  <link rel="stylesheet" href="{{ site.assets }}css/main.css" />
+  <link rel="stylesheet" href="{{ site.assets }}css/main.css?v=1" />
   <link rel="shortcut icon" href="/favicon.png">
 
   <script src="{{ site.assets }}js/vendor/custom.modernizr.js"></script>
