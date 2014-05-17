@@ -56,24 +56,20 @@
 
 
 <div class="banner">
-  <div class="row">
-    <div class="large-12 columns">
-    {% if page.banner %}
-    {% capture banner_count %}{{ page.banner | size }}{% endcapture %}
-      {% if banner_count == '1' %}
-        <img src="{{ page.banner }}" alt="" />
-      {% else %}
-        <ul data-orbit>
-        {% for slide in page.banner %}
-          <li><img src="{{ slide }}" alt="" /></li>
-        {% endfor %}
-        </ul>
-      {% endif %}
+  {% if page.banner %}
+  {% capture banner_count %}{{ page.banner | size }}{% endcapture %}
+    {% if banner_count == '1' %}
+      <img src="{{ page.banner }}" alt="" />
     {% else %}
-      <img src="{{ site.assets }}img/banner-small.jpg" alt="" />
+      <ul data-orbit>
+      {% for slide in page.banner %}
+        <li><img src="{{ slide }}" alt="" /></li>
+      {% endfor %}
+      </ul>
     {% endif %}
-    </div>
-  </div>
+  {% else %}
+    <img src="{{ site.assets }}img/banner-small.jpg" alt="" />
+  {% endif %}
 </div>
 
 
