@@ -7,6 +7,9 @@ published: true
 
 # News
 
+##Kaleido Family Arts Festival Rocks!
+<iframe width="560" height="315" src="//www.youtube.com/embed/llX4nNu-TEg" frameborder="0" allowfullscreen></iframe>
+
 ##Get Ready for more Kaleido!
 <iframe width="420" height="315" src="//www.youtube.com/embed/PJBabeKODRo" frameborder="0" allowfullscreen></iframe>
 
