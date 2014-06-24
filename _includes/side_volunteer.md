@@ -1,4 +1,4 @@
-![](/uploads/volunteer-button.jpg)
+![][(/uploads/volunteer-button.jpg)]((/uploads/volunteer-button.jpg))
 
 [![Download 2013 Volunteer Form](/uploads/volunteer-button.jpg)]({{ site.uploads }}Kaleido-Volunteer-Form-2013.pdf)
 
