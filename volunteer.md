@@ -8,9 +8,9 @@ published: true
 
 # Be a Kaleido Volunteer
 
-Interested in being part of a wonderful community arts event on The Ave? At Kaleido Family Arts Festival 2013 we continue to build our team and would love to hear from you!
+Interested in being part of a wonderful community arts event on The Ave? At Kaleido Family Arts Festival 2014 we continue to build our team and would love to hear from you!
 
-Volunteer forms are available for download  here: [Kaleido Volunteer Form 2013]({{ site.uploads }}Kaleido-Volunteer-Form-2013.pdf). Please email your completed form to <kaleidovolunteers@gmail.com> or drop it off at the Carrot during business hours. We’re looking forward to hearing from you!
+Download the paper [Volunteer form](https://www.dropbox.com/s/pofmk4w4hlqholw/2014-Kaleido-Volunteer-App.pdf) and email your completed form to <kaleidovolunteers@gmail.com> or drop it off at the Carrot during business hours. We’re looking forward to hearing from you!
 
 
 ## Meet, Greet & Sign Up (bring your friends)!
