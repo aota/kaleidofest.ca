@@ -20,7 +20,7 @@ Download information & application forms:
 ### Call for Installation Artists!
 Take part in the 12Foot12 Installation Challenge or the Deck-Out A Lampost Contest!  <br>
 Download information & application forms: 
-[12FOOT12 Installation Challenge](https://www.dropbox.com/s/lnqkyncykq2eapq/12FOOT12_2014.pdf)
+[12FOOT12 Installation Challenge](https://www.dropbox.com/s/lnqkyncykq2eapq/12FOOT12_2014.pdf)  
 [Deck-Out A Lampost Contest](https://www.dropbox.com/s/23euzx3xuuu9qha/2014-LamppostCall.pdf)
 
 ## Kaleido Family Arts Festival Rocks!
