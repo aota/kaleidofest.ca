@@ -12,8 +12,11 @@ published: true
 ### Call for Artists!
 Take part in the Artisan Village, Visual Art Gallery or The Carrot Window Space! <br>
 Download information & application forms: 
+
 [Artisan Village](https://www.dropbox.com/s/85pb5ggs9m130zp/2014-artisanvillage.pdf)
+
 [Visual Art Gallery](https://www.dropbox.com/s/e17th9zvby0ry4a/2014-visualgallery.pdf)
+
 [The Carrot Window Space](https://www.dropbox.com/s/819lincf1fj51wb/2014-carrotwindow.pdf) 
 
 ### Call for Installation Artists!
