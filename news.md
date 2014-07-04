@@ -7,11 +7,23 @@ published: true
 
 # News
 
+## Join in on the action!
+
+### Call for Artists!
+Take part in the Artisan Village, Visual Art Gallery or The Carrot Window Space! <br>
+Download information & application forms: 
+[Artisan Village](https://www.dropbox.com/s/85pb5ggs9m130zp/2014-artisanvillage.pdf)
+[Visual Art Gallery](https://www.dropbox.com/s/e17th9zvby0ry4a/2014-visualgallery.pdf)
+[The Carrot Window Space](https://www.dropbox.com/s/819lincf1fj51wb/2014-carrotwindow.pdf) 
+
+### Be a Part of Heart Surprise
+If you want to put a heart box on your head and attack people with love during Kaleido, Contact our lovely Volunteer Coordinator, Rebecca, at <kaleidovolunteers@gmail.com> 
+
 ## Kaleido Family Arts Festival Rocks!
 ### Check out the highlights from the 2013 festival
 <iframe width="560" height="315" src="//www.youtube.com/embed/llX4nNu-TEg" frameborder="0" allowfullscreen></iframe>
 
-## Love the 2013 Vid? There's more!
+<!--## Love the 2013 Vid? There's more!
 ### 2012 highlights
 <iframe width="420" height="315" src="//www.youtube.com/embed/PJBabeKODRo" frameborder="0" allowfullscreen></iframe>
 
@@ -25,8 +37,8 @@ Be one of the Village People! <br>
 Contact Frank Zotter at <frazotta@hotmail.com>
 
 ### Be a Part of Heart Surprise
-If you want to put a heart box on your head and attack people with love during Kaleido, Contact our lovely Volunteer Coordinator, Rebecca, at <kaleidovolunteers@gmail.com>
+If you want to put a heart box on your head and attack people with love during Kaleido, Contact our lovely Volunteer Coordinator, Rebecca, at <kaleidovolunteers@gmail.com> 
 
 <div class="flex-video">
 	<iframe width="640" height="360" src="//www.youtube.com/embed/SV9qDa59nNE" frameborder="0" allowfullscreen></iframe>
-</div>
+</div> -->
