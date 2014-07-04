@@ -16,8 +16,11 @@ Download information & application forms:
 [Visual Art Gallery](https://www.dropbox.com/s/e17th9zvby0ry4a/2014-visualgallery.pdf)
 [The Carrot Window Space](https://www.dropbox.com/s/819lincf1fj51wb/2014-carrotwindow.pdf) 
 
-### Be a Part of Heart Surprise
-If you want to put a heart box on your head and attack people with love during Kaleido, Contact our lovely Volunteer Coordinator, Rebecca, at <kaleidovolunteers@gmail.com> 
+### Call for Installation Artists!
+Take part in the 12Foot12 Installation Challenge or the Deck-Out A Lampost Contest!  <br>
+Download information & application forms: 
+[12FOOT12 Installation Challenge](https://www.dropbox.com/s/lnqkyncykq2eapq/12FOOT12_2014.pdf)
+[Deck-Out A Lampost Contest](https://www.dropbox.com/s/23euzx3xuuu9qha/2014-LamppostCall.pdf)
 
 ## Kaleido Family Arts Festival Rocks!
 ### Check out the highlights from the 2013 festival
