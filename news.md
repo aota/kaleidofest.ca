@@ -25,7 +25,9 @@ Download information & application forms:
 [Deck-Out A Lampost Contest](https://www.dropbox.com/s/23euzx3xuuu9qha/2014-LamppostCall.pdf)
 
 ## Kaleido Family Arts Festival Rocks!
+
 ### Check out the highlights from the 2013 festival
+
 <iframe width="560" height="315" src="//www.youtube.com/embed/llX4nNu-TEg" frameborder="0" allowfullscreen></iframe>
 
 <!--## Love the 2013 Vid? There's more!
