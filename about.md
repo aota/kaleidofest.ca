@@ -11,7 +11,7 @@ published: true
 
 Alberta Avenue comes alive with a free arts festival featuring music, dance, theatre, film, literary, and visual arts.
 
-Artists collide in an environment of creative exploration and performances on rooftops, sides of buildings, back alleys, parks, old spaces and new spaces of 118<sup>th</sup> Avenue. You have the see it to believe it! Where won’t an artist be?
+Artists collide in an environment of creative exploration and performances on rooftops, sides of buildings, back alleys, parks, old spaces and new spaces of 118<sup>th</sup> Avenue. You have to see it to believe it! Where won’t an artist be?
 
 Kaleido is produced by Arts on the Ave.
 
