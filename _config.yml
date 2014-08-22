@@ -10,6 +10,9 @@ description: "The Kaleido Festival is organized by The Arts on the Ave Edmonton 
 assets: /assets/
 uploads: /uploads/
 
+gems:
+  - jekyll-redirect-from
+
 prose:
   siteurl: http://kaleidofest.ca
   media: uploads
