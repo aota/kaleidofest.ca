@@ -5,7 +5,7 @@ title: Schedule
 published: true
 ---
 
-# Festival Schedule
+# Festival Schedule 2014
 
 
 <div class="section-container auto" data-section data-options="deep_linking: true">
@@ -15,7 +15,7 @@ published: true
 FRIDAY SCHEDULE
 **********************************************
 -->
-{% include schedule_friday.html %}
+{% comment %} {% include schedule_friday.html %} {% endcomment %}
 
 <!--
 **********************************************
