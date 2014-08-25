@@ -15,7 +15,7 @@ published: true
 FRIDAY SCHEDULE
 **********************************************
 -->
-{% comment %} {% include schedule_friday.html %} {% endcomment %}
+{% include schedule_friday.html %}
 
 <!--
 **********************************************
