@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: "/whats-on/theatre/"
+redirect_from: "/whats-on/"
 title: Theatre
 published: true
 ---
