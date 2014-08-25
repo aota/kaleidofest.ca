@@ -21,9 +21,6 @@ layout: base
       {% when 'media.md' %}
         {% capture sidebar %}{% include side_media.md %}{% endcapture %}
         {{ sidebar | markdownify }}
-      {% when 'theatre.md' %}
-        {% capture sidebar %}{% include side_theatre.md %}{% endcapture %}
-        {{ sidebar | markdownify }}
       {% when 'whats-on.md' %}
         {% capture sidebar %}{% include side_whats_on.md %}{% endcapture %}
         {{ sidebar | markdownify }}
