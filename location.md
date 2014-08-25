@@ -28,13 +28,13 @@ Kaleido takes place on the street, and this will have some effect on getting to 
 - 95th street 117<sup>th</sup> ave, south west parking lot
 - Street parking down 118<sup>th</sup> Ave except for closure area (see below)
 
-**Note: Saturday evening there is an Eskimos game, which means you cannot park on residential streets south of 118<sup>th</sup> Ave to 112<sup>th</sup> Ave in the Stadium area without a permit. You will be ticketed and/or towed.**
+**Note: Friday evening there is an Eskimos game, which means you cannot park on residential streets south of 118<sup>th</sup> Ave to 112<sup>th</sup> Ave in the Stadium area without a permit. You will be ticketed and/or towed.**
 
 There are many spaces to park, but if you can walk or take transit it helps those who cannot a great deal.
 
 
 ## Road Closures at Kaleido
 
-118<sup>th</sup> Ave will be closed from 90-94<sup>th</sup> Street from Friday, September 13, 2013 at 3pm until Sunday, September 15, 2013 at 8pm to make way for the Kaleido Family Arts Festival.
+118<sup>th</sup> Ave will be closed from 90-94<sup>th</sup> Street from Friday, September 12, 2014 at 3pm until Sunday, September 14, 2014 at 8pm to make way for the Kaleido Family Arts Festival.
 
 ![map of road closures]({{ site.assets }}img/kaleido-road-closures.png)
