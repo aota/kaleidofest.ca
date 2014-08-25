@@ -7,64 +7,151 @@ published: true
 
 # Workshops
 
-## Flowscience Hoop Workshop
-**SAT 1:00 – 4:00 pm | Popular Corner**  
-Join international performer and instructor Carla Snow and have some hoop-de-doo fun with hoops!
+<section class="stage">
+  <h1 class="beta">Saturday Arts Laboratory</h1>
+  <p><strong>Various Venues</strong></p>
+  <div class="row">
+    <div class="columns large-12">
+      <table class="timetable">
+        <tbody>
+          <tr><td class="timetable-hour-wide">12:00 pm – 6:00 pm</td> <td>Papermaking St. Faith’s Church</td></tr>
+          <tr><td>12:00 pm – 6:00 pm</td> <td>Crafts Demos & Workshops Takwakin Village</td></tr>
+          <tr><td>12:00 pm – 5:00 pm</td> <td>Artist Trading Cards Nina Haggerty Centre for the Arts</td></tr>
+          <tr><td>12:00 pm – 6:00 pm</td> <td>Stilt Walking Kaleido Kids World</td></tr>
+          <tr><td>12:30 pm – 1:00 pm</td> <td>ZUMBA Movement and Dance Arts Common Grassy Space</td></tr>
+          <tr><td>1:00 pm – 4:00 pm</td> <td>Flowscience Hoop On the Avenue</td></tr>
+          <tr><td>1:15 pm – 2:15 pm</td> <td>Fung Loy Kok Taoist Tai Chi Arts Common Grassy Space</td></tr>
+          <tr><td>2:30 pm – 3:30 pm</td> <td>ZUMBA Movement and Dance Arts Common Grassy Space</td></tr>
+          <tr><td>3:00 pm – 3:45 pm</td> <td>Asham Stompers Metis Dance Takwakin Village</td></tr>
+          <tr><td>2:00 pm – 3:00 pm</td> <td>Acrylic and Mixed Media Painting Nina Haggerty Centre for the Arts</td></tr>
+          <tr><td>3:30 pm – 4:30 pm</td> <td>Acrylic and Mixed Media Painting Nina Haggerty Centre for the Arts</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
 
-## Fung Loy Kok Taoist Tai Chi Demo & Workshop
-**SAT 1:00 – 2:00 pm | Arts Common Grassy Space**  
-Enjoy watching or join in this meditative energy exercise, based on ancient knowledge from Traditional Chinese Medicine and martial arts.
 
-## Havana d’Primera
-**SAT 3:25 – 4:10 pm | Refresh Crosswalk**  
-One of Cuba’s national treasures, this band slides its way into Latin traditional, contemporary and fusion grooves. Toe tapping, hip swinging and big smiles will accompany these fellows wherever they play.
+<section class="stage">
+  <h1 class="beta">Sunday Arts Laboratory</h1>
+  <p><strong>Various Venues</strong></p>
+  <div class="row">
+    <div class="columns large-12">
+      <table class="timetable">
+        <tbody>
+          <tr><td class="timetable-hour-wide">12:00 pm – 5:00 pm</td> <td>Artist Trading Cards Nina Haggerty Centre for the Arts</td></tr>
+          <tr><td>12:00 pm – 6:00 pm</td> <td>Stilt Walking Kaleido Kids World</td></tr>
+          <tr><td>12:00 pm – 6:00 pm</td> <td>Crafts Demos & Workshops Takwakin Village</td></tr>
+          <tr><td>12:00 pm – 3:00 pm</td> <td>Soul Art Workshop Nina Haggerty Centre for the Arts</td></tr>
+          <tr><td>12:15 pm – 1:00 pm</td> <td>Samba Edmonton Dance Arts Common Grassy Space</td></tr>
+          <tr><td>1:00 pm – 6:00 pm</td> <td>Papermaking St. Faith’s Church</td></tr>
+          <tr><td>1:00 pm – 4:00 pm</td> <td>Infinity Hoop Dance On the Avenue</td></tr>
+          <tr><td>1:30 pm – 2:15 pm</td> <td>Nina Haggerty Dance Collective Arts Common Grassy Space</td></tr>
+          <tr><td>2:30 pm – 3:15 pm</td> <td>Delhi 2 Dublin Music Workshop Avenue Central Stage</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
 
-## Zumba Dance Workshop
-**SAT 3:45 – 4:15 pm | Arts Common Grassy Space**  
-Everyone can have fun and follow along with great dance music from around the world!
 
-## Capoeira Performance & Workshop
-**SAT 4:15 – 5:00 pm | Arts Common Grassy Space**  
-Learn about Afro-Brazilian movements and music in this interactive session with Edmonton’s leading Capoeira specialists.
 
-## SHAD Hip Hop Workshop
-**SAT 5:00 – 6:00 pm | Hip Hop K-FAF Tent**  
-Juno Award Winner SHAD and some of Edmonton’s finest Hip Hop Artists share music and wisdom during this dynamic, energetic session of music and moves
+## St. Faith’s Church
+**11725 - 93 Street**
 
-## Grandma Willow
-**SAT & SUN 12:00 – 4:30 pm | Arts Common Grassy Space**  
-Grandma Willow shares stories about nature and invites children to create crafts that reflect the messages in the stories.
+### Papermaking
+Artist Julie Drew will teach you to create your own
+beautiful paper using centuries old techniques.
 
-## Artist Trading Cards
-**SAT & SUN 12:00 – 5:00 pm | Nina Haggerty Centre for the Arts**  
-The Edmonton Public Library (EPL) presents an artist trading cards session in which participants create miniature works of art that they can trade.
+## Takwakin Village
+**9210 – 118 Avenue - Behind Alberta Avenue Community League Building**
 
-## Paper Making
-**SAT & SUN 12:00 – 5:00 pm | Nina Haggerty Centre for the Arts**  
-Join Artist Julie Drew to create your own beautiful paper using centuries old techniques.
+### Crafts Demos & Workshops
+Explore the fascinating arts of Moose Hair Tufting,
+Fish Scale Art, Beadwork, Medicine Bags and more.
+Everyone welcome.
 
-## Stilt Walking
-**SAT & SUN 12:00 – 5:00 pm | Kaleido Kids World**  
-Join the National Stiltwalkers of Canada to learn how to reach new heights of fun!
+### Asham Stompers Metis Dance
+The Red River Jig is a fascinating and fun dance
+from Metis culture. Join in and learn how to twirl
+and stomp and have a good time!
 
-## Nina Infinity Hoop Workshop
-**SUN 1:00 – 4:00 pm | Popular Corner**  
-Hoop it up with Nina for some smiles and giggles. You might even learn a new trick or two!
+## Kaleido Kids World
+**9135 – 118 Avenue**
 
-## Drumadrumdrum
-**SUN 12:30 – 2:00 pm & 3:30 – 5:00 pm | 118 Ave, East of The Carrot**  
-Join percussion artist Marcus Fung on a musical adventure with drums and percussion instruments of all styles.
+### Stilt Walking
+Join the National Stiltwalkers of Canada to learn
+how to reach new heights of fun!
 
-## Afro-Brazilian Dance
-**SUN 4:00 – 5:00 pm | Arts Common Grassy Space**  
-Learn traditional and contemporary cultural dance with fabulous Live Music!
 
-----
+## Nina Haggerty Centre for the Arts
+**9225 – 118 Avenue**
 
-## Venue Addresses
+### Artist Trading Cards
+The Edmonton Public Library (EPL) presents an
+artist trading cards session in which participants
+create miniature works of art that they can trade.
 
-- Popular Corner: 93 St & 118 Ave
-- Kaleido Kids World: 9135 – 118 Ave
-- In the Park Grassy Space: 9210 – 118 Ave
-- Nina Haggerty Centre for the Arts: 9225 – 118 Ave Arts
-- Common Grassy Space: 9135 – 118 Ave
+### Acrylic and Mixed Media Painting
+Artist Samantha Williams-Chapelsky will guide you
+to create a masterpiece all your own! Detailed
+instructions will be given at the beginning of the
+workshop, although drop-ins are welcome. All ages.
+
+### Soul Art
+Explore your creativity... experiment with art!
+Creative Age Edmonton, dedicated to engaging
+older adults with the arts, brings Soul Art to
+Kaleido! Local artist Elsa Robinson guides this
+engaging visual arts drop-in session. All ages
+welcome, no experience required!  
+[www.creativeageedmonton.ca](http://www.creativeageedmonton.ca)
+
+
+## Arts Common Grassy Space
+**9135 – 118 Avenue**
+
+### ZUMBA Movement and Dance
+If you love dance, you’ll love Zumba! Easy to join in
+and follow fun dance moves to great world music.
+
+### Fung Loy Kok Taoist Tai Chi
+Learn more about this ancient meditative energy
+exercise. Everyone is welcome to join in.
+
+### Samba Edmonton Dance
+Experience the joy of the beautiful form of Brazilian
+Samba and have fun learning about the different
+types of rhythms that create this cultural dance.
+
+### Nina Haggerty Dance Collective
+Facilitator Amber Borotsik and key members of the
+Dance Collective will be exploring ways to create
+instantaneous choreography. Come and make
+some dance with us! All abilities welcome.
+
+
+## On the Avenue
+**118 Avenue**
+
+### Flowscience Hoop
+Join international performer and instructor
+Carla Snow and have some hoop-de-doo fun
+with hoops!
+
+### Infinity Hoop Dance
+Enjoy learning from the graceful Nina Infinity,
+professional teacher and dancer. Everyone
+can hoop!
+
+## Avenue Central Stage
+**9210 – 118 Avenue**
+
+### Delhi 2 Dublin Music Workshop
+Delhi 2 Dublin has been called the “United Nations
+of rock ‘n’ roll”, writing, recording and performing
+electrically charged music that blends styles from
+different cultures and genres. With 7 albums to
+date, this high energy band has lots of experience
+to draw on to share some ideas about how their
+music comes together.
