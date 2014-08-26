@@ -12,9 +12,6 @@ layout: base
       {% when 'about.md' %}
         {% capture sidebar %}{% include side_about.md %}{% endcapture %}
         {{ sidebar | markdownify }}
-      {% when 'greetings.md' %}
-        {% capture sidebar %}{% include side_greetings.md %}{% endcapture %}
-        {{ sidebar | markdownify }}
       {% when 'volunteer.md' %}
         {% capture sidebar %}{% include side_volunteer.md %}{% endcapture %}
         {{ sidebar | markdownify }}

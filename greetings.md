@@ -11,39 +11,51 @@ title: Greetings
 
 **Christy Morin, Founder / Executive Director, Arts on the Ave Edmonton Society**
 
-My family welcomes you to Kaleido!
+Welcome to our 9th Kaleido Family Arts Festival. This unique festival has been built on community, passion, and creativity. Each year, this festival shares how the arts and community together bring joy, laughter and friendship to a neighbourhood that had lost vision of its beauty, history and identity. Its spirit was lost...we are thrilled to be part of the rebuilding of the Alberta Avenue District. Rebuilding takes commitment for the long haul, and I am happy to share that we are here and not leaving. Thank you to each of you, our partners, community supporters, production team, volunteers, performers, neighbours, and funders for believing with us that change starts with one smile, one volunteer hour or one coffee shared with another.
 
-It takes a community to raise and nurture a festival, just as it takes a village to raise a child. We thank each of you for sharing in the beauty of the arts and our great historic neighbourhood. Thank you to our fantastic production team, sponsors, partners and phenomenal artists for your time, talents and gifts.
+This year’s theme is Relish! Relish Kaleido! Relish your time with family and friends! Relish life on the Ave!
 
-**This year we want to remember and give honour to Don Snider. Don was our Production Site Manager for many years. He brought incredible insight, wisdom and love to our community and team. Don “got” what Kaleido is and shared the vision with many. Don, we love you and miss
-you dearly. You will always be cherished.**
+From our family to yours - have a wonderful time at the festival, come back and visit soon!
 
-Here’s to Don! Life is beautiful. Enjoy the festival.
-
+God Bless,  
 Christy Morin
 
 
 
-## His Worship Mayor Stephen Mandel
+## His Worship Mayor Don Iveson
 
-On behalf of City Council and the people of Edmonton, Alberta’s Capital City,  I’d like to welcome everyone attending the Kaleido Family Arts Festival.
+On behalf of City Council and the people of Edmonton, Alberta’s Capital City, I welcome everyone to the Kaleido Family Arts Festival.
 
-Edmonton is proud of its exceptional arts community, and our summer festivals showcase many brilliant aspects of this community. The Kaleido Family Arts Festival will bring guests to Alberta Avenue to view more than 300 acts in a fun and interactive atmosphere. With dancers on rooftops, hip hop artists in the alley, singing, theatre and fine arts, the festival is sure to be a thrilling and colourful gathering of the season.
+Now in its ninth year, this festival has quickly become a local favourite for Alberta Avenue residents and visitors alike. With a wide range of art and performances on the rooftops, buildings, streets, alleys, parks and even lamp posts of Alberta Avenue, the Kaleido Festival transforms one of Edmonton’s historic neighbourhoods into a living stage.
 
-Thank you to Arts on the Ave for taking initiative to cultivate fellowship and community connection by promoting artistic expression in Edmonton. Your commitment to providing a canvas on which countless artists and art forms can unfold inspires the hearts and minds of many and makes our city a brighter, stronger place to live.
-Best wishes for a successful festival!
+Events like this help invigorate our city’s older communities, making them safer and more welcoming year-round. I thank the Arts on the Ave team and the many artists, volunteers and sponsors who make this festival possible each year. Your efforts contribute to Edmonton’s reputation as a vibrant City with a thriving arts and cultural scene.
 
-Yours Truly, Stephen Mandel
+Have a fun-filled festival!
+
+Yours truly,  
+Don Iveson, Mayor
 
 
 ## The Honourable Heather Klimchuk
 
 **Minister of Culture**
 
-As Minister responsible for Alberta’s vibrant culture sector, it is my great pleasure to welcome Edmontonians and visitors alike to the 2013 Kaleido Family Arts Festival.
+As minister responsible for culture, it is my great pleasure to welcome Edmontonians and visitors alike to the 2014 Kaleido Family Arts Festival.
 
-Like a kaleidoscope uses light to transform glass into vivid, constantly changing shapes and colours, culture has the power to transform, vitalize and brighten communities, making them even better places to live, work and raise a family. Arts on the Ave and the Kaleido Family Arts Festival demonstrate this transformative power, turning Alberta Avenue into a hub for creative exploration and a stage for Albertan artists to showcase their talents.
+I am proud to see growth and development of Alberta Avenue as a hub of arts and culture. This vibrancy extends throughout the neighbourhood, offering families, friends and spectators the opportunity to explore the alleys, streets and spaces filled with performers and arts. The Kaleido Festival is a great example of how a community can transform ordinary streets into a magical experience.
 
 My thanks to Arts on the Ave for presenting this annual event and to all the performers, artists and volunteers for their invaluable contributions.
 
 Best wishes for an enjoyable festival!
+
+Heather Klimchuk, Minister
+
+## The Honourable Shelly Glover
+
+**Minister of Canadian Heritage and Official Languages**
+
+Our Government knows how important it is to provide our youth with opportunities to discover our country’s heritage and explore the world of arts and culture. As we approach Canada’s 150th birthday in 2017, we have a wonderful opportunity to help our young people discover what defines Canadian society and to encourage them to participate in it. Through its educational activities, the Kaleido Family Arts Festival provides a rewarding experience that is both entertaining and educational for the region’s families.
+
+On behalf of Prime Minister Stephen Harper and the Government of Canada, I would like to thank Arts on the Ave and all the organizers, performers, and volunteers who helped bring this year’s Kaleido Festival to life.
+
+The Honourable Shelly Glover
