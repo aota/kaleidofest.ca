@@ -27,6 +27,9 @@ layout: base
       {% when 'donate.md' %}
         {% capture sidebar %}{% include side_donate.md %}{% endcapture %}
         {{ sidebar | markdownify }}
+      {% when 'village.md' %}
+        {% capture sidebar %}{% include side_village.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
     {% endcase %}
   </div>
 </div>
