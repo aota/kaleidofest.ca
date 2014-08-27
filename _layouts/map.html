@@ -10,26 +10,29 @@ layout: base
   <div class="columns large-4">
     <h2>Venues</h2>
     <ol class="listless">
-      <li><span class="ordinal ordinal-small">1</span>630 CHED Avenue Central Stage</li>
-      <li><span class="ordinal ordinal-small">2</span>The Carrot Community Arts Coffeehouse</li>
-      <li><span class="ordinal ordinal-small">3</span>Don’s Grand Piano Gallery Stage</li>
-      <li><span class="ordinal ordinal-small">4</span>B<sup>2</sup> & B There Stage (In St. Faith’s Church)</li>
-      <li><span class="ordinal ordinal-small">5</span>Bedouin Beats Caravan Stage</li>
-      <li><span class="ordinal ordinal-small">6</span>Arts Hub 118, Back Balcony</li>
-      <li><span class="ordinal ordinal-small">7</span>Nina Haggerty Centre for the Arts</li>
-      <li><span class="ordinal ordinal-small">8</span>The Studio (Independent Gallery)</li>
-      <li><span class="ordinal ordinal-small">9</span>Studio Alley Stage</li>
-      <li><span class="ordinal ordinal-small">10</span>Kaleido Theatre (Alberta Avenue Community League)</li>
+      <li><span class="ordinal ordinal-small">1</span> 630 CHED Avenue Central Stage</li>
+      <li><span class="ordinal ordinal-small">2</span> The Carrot Community Arts Coffeehouse</li>
+      <li><span class="ordinal ordinal-small">3</span> Don’s Grand Piano Gallery Stage</li>
+      <li><span class="ordinal ordinal-small">4</span> Ben’s Sound Garden (In St. Faith’s Church)</li>
+      <li><span class="ordinal ordinal-small">5</span> Bedouin Beats Caravan Stage</li>
+      <li><span class="ordinal ordinal-small">6</span> Arts Hub 118, Back Balcony Stage</li>
+      <li><span class="ordinal ordinal-small">7</span> Nina Haggerty Centre for the Arts</li>
+      <li><span class="ordinal ordinal-small">8</span> The Studio (Independent Gallery)</li>
+      <li><span class="ordinal ordinal-small">9</span> Studio Alley Stage</li>
+      <li><span class="ordinal ordinal-small">10</span> Kaleido Theatre (Alberta Avenue Community League)</li>
+      <li><span class="ordinal ordinal-small">11</span> The Salon</li>
+      <li><span class="ordinal ordinal-small">12</span> Takwakin Village</li>
+      <li><span class="ordinal ordinal-small">13</span> Arts Common Grassy Space Workshop Stage</li>
+      <li><span class="ordinal ordinal-small">14</span> Rhythm Speaks Hip Hop Stage</li>
     </ol>
 
-    <!-- <h2>Galleries</h2>
+    <h2>Galleries</h2>
     <ol class="listless">
       <li>Nina Haggerty Centre for the Arts</li>
-      <li>B<sup>2</sup> &amp; B There Gallery</li>
+      <li>St. Faith’s Gallery</li>
       <li>The Carrot Community Arts Coffeehouse</li>
       <li>The Studio (Independent Gallery)</li>
-    </ol> -->
-
+    </ol>
   </div>
 </div>
 
@@ -47,7 +50,7 @@ layout: base
   // initialize the map on the "map" div
   var opts = {
     scrollWheelZoom: false,
-    center: [-67.34,-68.91],
+    center: [-66.93006025862447,-64.16015624999999],
     zoom: 2,
     // center: [-73.07,-76.46],
     // zoom: 3,
@@ -60,7 +63,7 @@ layout: base
 
   // festival map image TMS layer
   L.tileLayer('/maptiles/{z}/{x}/{y}.png', {
-      maxZoom: 5,
+      maxZoom: 3,
       minZoom: 1,
       tms: true
   }).addTo(map);
