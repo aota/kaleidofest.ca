@@ -14,7 +14,7 @@ published: true
     <div class="columns large-12">
       <table class="timetable">
         <tbody>
-          <tr><td class="timetable-hour-wide">12:00 pm – 6:00 pm</td> <td>Papermaking St. Faith’s Church</td></tr>
+          <tr><td class="timetable-hour-wide">12:00 pm – 6:00 pm</td> <td>Papermaking St. Faith's Church</td></tr>
           <tr><td>12:00 pm – 6:00 pm</td> <td>Crafts Demos & Workshops Takwakin Village</td></tr>
           <tr><td>12:00 pm – 5:00 pm</td> <td>Artist Trading Cards Nina Haggerty Centre for the Arts</td></tr>
           <tr><td>12:00 pm – 6:00 pm</td> <td>Stilt Walking Kaleido Kids World</td></tr>
@@ -44,7 +44,7 @@ published: true
           <tr><td>12:00 pm – 6:00 pm</td> <td>Crafts Demos & Workshops Takwakin Village</td></tr>
           <tr><td>12:00 pm – 3:00 pm</td> <td>Soul Art Workshop Nina Haggerty Centre for the Arts</td></tr>
           <tr><td>12:15 pm – 1:00 pm</td> <td>Samba Edmonton Dance Arts Common Grassy Space</td></tr>
-          <tr><td>1:00 pm – 6:00 pm</td> <td>Papermaking St. Faith’s Church</td></tr>
+          <tr><td>1:00 pm – 6:00 pm</td> <td>Papermaking St. Faith's Church</td></tr>
           <tr><td>1:00 pm – 4:00 pm</td> <td>Infinity Hoop Dance On the Avenue</td></tr>
           <tr><td>1:30 pm – 2:15 pm</td> <td>Nina Haggerty Dance Collective Arts Common Grassy Space</td></tr>
           <tr><td>2:30 pm – 3:15 pm</td> <td>Delhi 2 Dublin Music Workshop Avenue Central Stage</td></tr>
@@ -56,7 +56,7 @@ published: true
 
 
 
-## St. Faith’s Church
+## St. Faith's Church
 **11725 - 93 Street**
 
 ### Papermaking
@@ -112,7 +112,7 @@ welcome, no experience required!
 **9135 – 118 Avenue**
 
 ### ZUMBA Movement and Dance
-If you love dance, you’ll love Zumba! Easy to join in
+If you love dance, you'll love Zumba! Easy to join in
 and follow fun dance moves to great world music.
 
 ### Fung Loy Kok Taoist Tai Chi
@@ -149,7 +149,7 @@ can hoop!
 
 ### Delhi 2 Dublin Music Workshop
 Delhi 2 Dublin has been called the “United Nations
-of rock ‘n’ roll”, writing, recording and performing
+of rock ‘n' roll”, writing, recording and performing
 electrically charged music that blends styles from
 different cultures and genres. With 7 albums to
 date, this high energy band has lots of experience
