@@ -38,7 +38,7 @@ Kaleido is FREE! Please donate what you can at the colourful donation tubes on s
 Yes. All ages. Performances are G rated unless otherwise noted in the program.
 
 ### Parking?
-Please see page 2 for festival parking information.
+Please see the [parking section on the Location page](/location#parking-at-kaleido).
 
 ### ATMs?
 There are two ATMs on site. Ask the info booth for locations.
