@@ -24,6 +24,9 @@ layout: base
       {% when 'whats-on.md' %}
         {% capture sidebar %}{% include side_whats_on.md %}{% endcapture %}
         {{ sidebar | markdownify }}
+      {% when 'on-the-street.md' %}
+        {% capture sidebar %}{% include side_on_the_street.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
       {% when 'arts-wares.md' %}
         {% capture sidebar %}{% include side_arts_wares.md %}{% endcapture %}
         {{ sidebar | markdownify }}
