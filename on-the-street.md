@@ -11,7 +11,7 @@ published: true
 
 ## The Trollsons
 The Trollsons are a comedic family of Trolls from the Canadian forest. This family of fun-loving forest creatures mingle with the crowd, tell jokes, match-make, sing songs, dance, play music, read rune stones, tell tall troll tales, and generally cause mischief and merriment.
-[www.pangaea-arts.com](www.pangaea-arts.com)
+[www.pangaea-arts.com](http://www.pangaea-arts.com)
 
 ## NEW! Fore!
 Jesse and Matt are back on the Links once again to putt around Kaleido and drive the audiences wild! Join these two hapless golfers as they hook, slice and wedge their way into your hearts.
