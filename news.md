@@ -26,6 +26,10 @@ Download information & application forms:
 
 ## Kaleido Family Arts Festival Rocks!
 
+### 2014 Global Promo
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/IxgCZUhll4E" frameborder="0" allowfullscreen></iframe>
+
 ### Check out the highlights from the 2013 festival
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/llX4nNu-TEg" frameborder="0" allowfullscreen></iframe>
