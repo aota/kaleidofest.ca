@@ -6,34 +6,31 @@ side: side_volunteer.md
 published: true
 ---
 
+
 # Be a Kaleido Volunteer
 
-Interested in being part of a wonderful community arts event on The Ave? At Kaleido Family Arts Festival 2014 we continue to build our team and would love to hear from you!
+Interested in being part of a wonderful community arts event on The Ave? At Kaleido Family Arts Festival 2015 we continue to build our team and would love to hear from you!
 
 Download the paper [Volunteer form](https://www.dropbox.com/s/pofmk4w4hlqholw/2014-Kaleido-Volunteer-App.pdf?dl=1) and email your completed form to <kaleidovolunteers@gmail.com> or drop it off at the Carrot during business hours. We're looking forward to hearing from you!
 
 
-## Meet, Greet & Sign Up (bring your friends)!
+## Info & Eats (bring your friends)!
 
-Meet other people involved with Kaleido!
-Get Festival leaks about who's coming & what's happening.
-Eat! Have fun!
+Our first Kaleido Volunteer Dinner Party was a success! With 50 people showing up, we're on our way to building our volunteer team. But we still need more people to help make the 10th Kaleido Family Arts Festival a weekend to remember, so bring your friends out to the next volunteer dinner. The party theme will be "Canada Proud" and will feature Rose's fried chicken and potatoes for eats! yum!!
 
-**July 22 at the Community League at 6-8pm**
+**Tuesday, July 21, 2015 at the Alberta Avenue Community League, 6-8 pm**
 
-**August 19 at the Community League at 6-8pm**
-
-RSVP required
+RSVP required: Please RSVP to kaleidovolunteers@gmail.com.
 
 ## Festival Training & Orientation
 
-**September 9 at the Community League from 6-9pm**
+**Info to come**
 
-Meet the team you'll be working with & learn your job.
+<!--Meet the team you'll be working with & learn your job.
 Get your festival t-shirt!
 Enjoy more yummy food!
 
-RSVP required
+RSVP required -->
 
 ## Volunteer Application
 
