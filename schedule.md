@@ -5,8 +5,11 @@ title: Schedule
 published: true
 ---
 
-# Festival Schedule 2014
+# Festival Schedule 2015
 
+**Coming soon.**
+
+{% comment %}
 
 <div class="section-container auto" data-section data-options="deep_linking: true">
 
@@ -33,3 +36,5 @@ SUNDAY SCHEDULE
 {% include schedule_sunday.html %}
 
 </div>
+
+{% endcomment %}
