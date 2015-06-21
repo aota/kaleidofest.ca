@@ -8,6 +8,11 @@ published: true
 
 # News
 
+## June 21, 2015: Be a Kaleido Volunteer
+ 
+### Info & Eats: Next Volunteer Party is July 21, 2015
+Our first Kaleido Volunteer Dinner Party was a success! With 50 people showing up, we're on our way to building our volunteer team. But we still need more people to help make the 10th Kaleido Family Arts Festival a weekend to remember, so bring your friends out to the next volunteer dinner. Tuesday, July 21 from 6-8pm at the Alberta Avenue Community League (9210 118 Ave). RSVP to kaleidovolunteers@gmail.com. The party theme will be "Canada Proud" and will feature Rose's fried chicken and potatoes for eats! yum!!
+
 ## Jun 18, 2015: Charity Status!
 
 ### Arts on the Ave is now a registered charity
