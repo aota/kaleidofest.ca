@@ -8,14 +8,14 @@ published: true
 
 # News
 
-## Charity Status!
+## Jun 18, 2015: Charity Status!
 
 ### Arts on the Ave is now a registered charity
 That means you can donate online (one time or monthly) and receive a tax receipt for your donation. Click the Canada Helps button below and start giving! 
 
 <A HREF="https://www.canadahelps.org/CharityProfilePage.aspx?CharityID=d109438"><IMG SRC="//www.canadahelps.org/image/DonateNowLink/en/Donate2.png" BORDER="0" ALT="Donate Now Through CanadaHelps.org!"/></A>
 
-## Join in on the action!
+<!--## Join in on the action!
 
 ### Call for Artists!
 Take part in the Artisan Village, Visual Art Gallery or The Carrot Window Space! <br>
@@ -42,7 +42,7 @@ Download information & application forms:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/llX4nNu-TEg" frameborder="0" allowfullscreen></iframe>
 
-<!--## Love the 2013 Vid? There's more!
+## Love the 2013 Vid? There's more!
 ### 2012 highlights
 <iframe width="420" height="315" src="//www.youtube.com/embed/PJBabeKODRo" frameborder="0" allowfullscreen></iframe>
 
