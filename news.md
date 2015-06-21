@@ -5,7 +5,15 @@ title: News
 published: true
 ---
 
+
 # News
+
+## Charity Status!
+
+### Arts on the Ave is now a registered charity
+That means you can donate online (one time or monthly) and receive a tax receipt for your donation. Click the Canada Helps button below and start giving! 
+
+<A HREF="https://www.canadahelps.org/CharityProfilePage.aspx?CharityID=d109438"><IMG SRC="//www.canadahelps.org/image/DonateNowLink/en/Donate2.png" BORDER="0" ALT="Donate Now Through CanadaHelps.org!"/></A>
 
 ## Join in on the action!
 
