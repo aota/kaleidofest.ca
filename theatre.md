@@ -5,9 +5,12 @@ title: Theatre
 published: true
 ---
 
+
 # Theatre
 
 **All shows in the Alberta Avenue Community League Building (9210 – 118 Avenue).**
+
+<!--
 
 <section class="stage">
   <h1 class="beta">Friday</h1>
@@ -76,3 +79,4 @@ Come deep into the forest as a family of trolls bring Scandinavian folklore to l
 ## Words We ‘Ave Poetry Slam (All Ages)
 Want to be moved to tears, laugh, smile or simply enjoy a play on words? Then don't miss the Words We ‘Ave Poetry Slam! Hear poets of all ages, sharing original works, while vying for $225.00 in prizes. This event is proudly hosted by The Rat Creek Press.  
 For more information and to register visit [www.ratcreek.org](http://www.ratcreek.org). You will receive an email confirming your acceptance. Space is limited.
+-->
