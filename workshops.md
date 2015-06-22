@@ -5,7 +5,10 @@ title: Workshops
 published: true
 ---
 
+
 # Workshops
+
+<!--
 
 <section class="stage">
   <h1 class="beta">Saturday Arts Laboratory</h1>
@@ -155,3 +158,4 @@ different cultures and genres. With 7 albums to
 date, this high energy band has lots of experience
 to draw on to share some ideas about how their
 music comes together.
+-->
