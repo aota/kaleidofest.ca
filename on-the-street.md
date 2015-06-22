@@ -1,11 +1,16 @@
 ---
 layout: default
 permalink: "/whats-on/on-the-street/"
-title: "On The Street"
+title: On The Street
 published: true
 ---
 
+
 # A Taste Of On The Street
+
+**More info coming soon.**
+
+<!--
 
 **Saturday & Sunday!**
 
@@ -26,3 +31,5 @@ Have you ever wanted to tell someone the most wonderful things about them? Here 
 If there are no stiltwalkers, it’s not a Party! The National Stiltwalkers of Canada have been raising the bar on Fun since 2001.You can’t help but love their High Spirited Entertainment! High Five Everyone!
 
 ## And many more!...
+
+-->
