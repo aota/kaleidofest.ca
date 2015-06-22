@@ -26,6 +26,7 @@ The signature projects of Arts on the Ave are Kaleido Family Arts Festival, Deep
 
 Visit [artsontheave.org](http://artsontheave.org).
 
+
 ## New this year: We are now a registered charity!
 
 Now you can donate (one time or monthly) online and receive a tax reciept for your amazing support. Click the Canada Helps button below and start giving! 
