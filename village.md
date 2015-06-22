@@ -1,10 +1,11 @@
 ---
 layout: default
-permalink: /whats-on/village/
+permalink: "/whats-on/village/"
 redirect_from: "/takwakin-village/"
 title: Takwakin Village
 published: true
 ---
+
 
 # Takwakin Village (Autumn Village)
 
@@ -19,6 +20,8 @@ Gouchey will work with a youth team to create traditional
 and contemporary fine art. Elders will be present to share
 stories and teachings. Everyone is welcome to participate,
 share, learn and enjoy.
+
+<!--
 
 ## Saturday
 
@@ -40,3 +43,5 @@ share, learn and enjoy.
 1:15 pm | Chipay Iskwew Singers performance and workshop {45 min}
 2:00 pm | Ron Walker, Storytelling and music {45 min}
 4:00 pm | Elder Stories {45 min}
+
+-->
