@@ -6,6 +6,7 @@ headline: Festival Map
 published: true
 ---
 
+
 ## Getting to Kaleido
 
 Kaleido Family Arts Festival is located in the heart of Edmonton's newest arts district, Alberta Avenue.
@@ -28,7 +29,7 @@ Kaleido takes place on the street, and this will have some effect on getting to 
 - 95th street 117<sup>th</sup> ave, south west parking lot
 - Street parking down 118<sup>th</sup> Ave except for closure area (see below)
 
-**Note: Friday evening there is an Eskimos game, which means you cannot park on residential streets south of 118<sup>th</sup> Ave to 112<sup>th</sup> Ave in the Stadium area without a permit. You will be ticketed and/or towed.**
+**Note: Saturday evening there is an Eskimos game, which means you cannot park on residential streets south of 118<sup>th</sup> Ave to 112<sup>th</sup> Ave in the Stadium area without a permit. You will be ticketed and/or towed.**
 
 There are many spaces to park, but if you can walk or take transit it helps those who cannot a great deal.
 
