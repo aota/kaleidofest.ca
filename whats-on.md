@@ -5,6 +5,7 @@ title: "What's On"
 published: true
 ---
 
+
 # What's On
 **Here's just a taste of some of the hundreds of acts Kaleido has in store for you. For all the juicy details, get a program at the festival!**
 
@@ -15,7 +16,7 @@ published: true
 
 Enjoy a great pancake breakfast with all the trimmings, served up with a healthy dose of lively Edmonton entertainment. What a great way to start your day!
 
-## Capoeira Annual Event & Belt Ceremony
+<!--## Capoeira Annual Event & Belt Ceremony
 **91 Street & 118 Avenue - Saturday 3:30pm – 6:00 pm**
 
 Capoeira is an acrobatic martial art and dance form from Brazil. Once a year Capoeira students congregate to demonstrate their acrobatic skills and challenge their masters to earn a new belt. Featuring highly skilled masters visiting from across North America and Brazil, this ceremony is a spectacle that shouldn’t be missed!
@@ -55,4 +56,4 @@ Visit our licensed family area where you can enjoy a cold beverage and listen to
 
 * Friday 8:00 pm – 11:00 pm
 * Saturday 12:00 pm – 10:00 pm
-* Sunday 12:00 pm – 5:00 pm
+* Sunday 12:00 pm – 5:00 pm-->
