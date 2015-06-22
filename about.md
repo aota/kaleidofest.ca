@@ -18,9 +18,6 @@ Artists collide in an environment of creative exploration and performances on ro
 
 Kaleido is produced by Arts on the Ave.
 
-### headlerfjghrhghr
-
-
 ## Arts on the Ave
 
 We are pleased to celebrate our radical tenth year with you! At its core, Arts on the Ave believes in cultivating artistic fellowship through arts celebrations, signature art festivals, and traditions. The Society's goals are to nurture creative environments and to create opportunities for everyone to experience the joy of artistic expression. Arts on the Ave is composed of visual and performance artists, literary and film artists, photographers, and musicians who collaborate and create in the 118 Avenue district between NAIT and Northlands.
