@@ -2,7 +2,9 @@
 layout: full
 permalink: /sponsors/
 title: Sponsors
+published: true
 ---
+
 
 {% comment %}
   This page is in Textile (not Markdown) because I needed to mix HMTL with one or the other and Markdown sucks for that.
@@ -14,6 +16,8 @@ h1. Sponsors
 h2. Thank You Community Partners, Supporters, Partners, and Media Partners
 
 Creating a free arts festival is unheard of in today's world. So, how does Kaleido do it? With an incredible arts community, excellent supporters, super volunteers, and friends. Thank you supporters, advertisers, partners, fellow community-builders and artists for believing in the vision of Kaleido Family Arts Festival. Your generosity is sincerely appreciated.
+
+<!-- 
 
 <img src="{{ site.uploads }}kaleido-sponsors.jpg" alt="Kaleido sponsor logos">
 
@@ -90,6 +94,8 @@ h3. Cerulean Blue Supporters $250 – $2000
 * sign-x limited
 * The Rat Creek Press
 * Yukon Brewery
+
+-->
 
   </div>
 </div>
