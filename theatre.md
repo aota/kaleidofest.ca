@@ -8,6 +8,8 @@ published: true
 
 # Theatre
 
+**More info coming soon.** _italic_
+
 **All shows in the Alberta Avenue Community League Building (9210 – 118 Avenue).**
 
 <!--
