@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 # What's On
 **Here's just a taste of some of the hundreds of acts Kaleido has in store for you. For all the juicy details, get a program at the festival!**
 
@@ -16,7 +17,7 @@ published: true
 
 Enjoy a great pancake breakfast with all the trimmings, served up with a healthy dose of lively Edmonton entertainment. What a great way to start your day!
 
-More coming soon!
+**More info coming soon!**
 
 <!--## Capoeira Annual Event & Belt Ceremony
 **91 Street & 118 Avenue - Saturday 3:30pm – 6:00 pm**
