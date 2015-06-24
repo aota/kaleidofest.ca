@@ -1,6 +1,7 @@
 ---
 layout: map
-permalink: /location/
+permalink: "/map/"
+redirect_from: "/location/"
 title: Location
 headline: Festival Map
 published: true
