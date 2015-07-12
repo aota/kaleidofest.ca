@@ -8,9 +8,9 @@ published: true
 
 # Apply Here
 
-*Art Gallery*
+##Art Gallery
 
-**Call for Visual Art Submissions.**
+###Call for Visual Art Submissions.
 
 We need visual art submissions for the Kaleido Gallery. 
 Deadline to apply is July 15, 2015
