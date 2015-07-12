@@ -26,4 +26,13 @@ Deadline to apply is July 31, 2015.
 
 Download the [call](https://www.dropbox.com/s/wb8g49jgfnjzm0n/2015-Lamppost-Call.pdf?dl=0) and the [application form](https://www.dropbox.com/s/tolxfz9ci5l62f2/2015-Lampost-Application.pdf?dl=0) here. 
 
+##12FOOT12 Installation Challenge
+ 
+###Create a structure within a 12x12x12 foot space!
+ 
+2015 is Kaleido’s 10th Anniversary and to celebrate, this year’s fun theme is “HOOPLA!”, and as such Kaleido is excited to present the fourth annual 12 FOOT 12 Installation Challenge. We are looking for innovative creations that fit within a 12x12x12 foot space down 118th Avenue.
+Deadline to apply is July 31, 2015.
+
+Download the [call](https://www.dropbox.com/s/kidiu6vhdy4igdf/2015-12Foot12-Call.pdf?dl=0) and the [application form](https://www.dropbox.com/s/tbaxqvjnkslscmb/2015-12Foot12-Application.pdf?dl=0) here.
+
 
