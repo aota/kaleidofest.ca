@@ -29,11 +29,15 @@ Deadline to apply is July 23, 2015.
 
 Download the [call](https://www.dropbox.com/s/gulsjj02dgtpclh/2015-ArtisanMarket.pdf?dl=0) and the [rules and regulations](https://www.dropbox.com/s/hpot8e4puxijgyj/2015-ArtisanMarket-RulesRegulations.pdf?dl=0) here.
 
+<iframe src="https://docs.google.com/forms/d/1TYKEfo4pCtSl2WX9xs1dSWxec7Hjq9rO1iuk0ESn72s/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
 ##Be a Kaleido Food Vendor
 
 Deadline to apply is July 23, 2015.
 
 Download the [call](https://www.dropbox.com/s/7qnd6la8uza992b/2015-FoodVendor.pdf?dl=0) and [rules and regulations](https://www.dropbox.com/s/6v7sztvn43mstmp/2015-FoodVendor-RulesRegulations.pdf?dl=0) here.
+
+<iframe src="https://docs.google.com/forms/d/1MMhMNX_5PbE65LyjEKhha2K3sLskWjBzuk8XPTh5jLA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 ##Deck out a Lampost
  
