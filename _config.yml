@@ -13,6 +13,10 @@ uploads: /uploads/
 gems:
   - jekyll-redirect-from
 
+sass:
+    sass_dir: assets/_sass
+    style: :compressed
+
 prose:
   siteurl: http://kaleidofest.ca
   media: uploads

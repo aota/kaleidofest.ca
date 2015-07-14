@@ -21,11 +21,12 @@ We're using a Sitemap generator plugin `_plugins/sitemap-generator.rb`; the catc
 
 [Foundation 4][foundation], to be specific.
 
-## Sass mixins from Bourbon.io
+Sass compilation is handled automatically by Jekyll. The base file is `assets/css/main.scss` and the include directory is `assets/_sass/`.   See [Jekyll's documentation][jekyll-sass].
 
-See [Bourbon.io][bourbon]
+### Sass mixins from Bourbon.io
 
-To compile, run the following command from the root directory: `sass --watch assets/sass:assets/css --style compressed`
+See [Bourbon.io][bourbon].
+
 
 ## Generating Map tiles
 
@@ -46,5 +47,6 @@ Regex for wrapping `{10 mins}` found in schedule: `\{(\d+\s\w*)\}` replace with 
 [no-plugins]: http://jekyllrb.com/docs/plugins/
 [sitemap-gen]: https://github.com/kinnetica/jekyll-plugins
 [foundation]: http://foundation.zurb.com/
+[jekyll-sass]: http://jekyllrb.com/docs/assets/
 [bourbon]: http://bourbon.io/docs/
 [pages-gem]: https://github.com/github/pages-gem

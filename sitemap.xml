@@ -33,6 +33,10 @@
         <lastmod>2015-06-28T22:25:27-06:00</lastmod>
     </url>
     <url>
+        <loc>http://kaleidofest.ca/assets/css/assets/css/main.css</loc>
+        <lastmod>2015-07-13T23:35:17-06:00</lastmod>
+    </url>
+    <url>
         <loc>http://kaleidofest.ca/media/</loc>
         <lastmod>2015-06-28T22:25:27-06:00</lastmod>
     </url>
@@ -71,13 +75,5 @@
     <url>
         <loc>http://kaleidofest.ca/whats-on/workshops/</loc>
         <lastmod>2015-06-28T22:25:27-06:00</lastmod>
-    </url>
-    <url>
-        <loc>http://kaleidofest.ca/location/</loc>
-        <lastmod>2015-07-13T22:51:19-06:00</lastmod>
-    </url>
-    <url>
-        <loc>http://kaleidofest.ca/takwakin-village/</loc>
-        <lastmod>2015-07-13T22:51:19-06:00</lastmod>
     </url>
 </urlset>
