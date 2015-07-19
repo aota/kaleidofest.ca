@@ -7,6 +7,7 @@ published: true
 
 
 
+
 # Apply Here
 
 ##Art Gallery
@@ -33,7 +34,7 @@ Download the [call](https://www.dropbox.com/s/gulsjj02dgtpclh/2015-ArtisanMarket
 
 ##Be a Kaleido Food Vendor
 
-Deadline to apply is July 23, 2015.
+Deadline to apply is July 31, 2015.
 
 Download the [call](https://www.dropbox.com/s/7qnd6la8uza992b/2015-FoodVendor.pdf?dl=0) and [rules and regulations](https://www.dropbox.com/s/6v7sztvn43mstmp/2015-FoodVendor-RulesRegulations.pdf?dl=0) here.
 
@@ -58,4 +59,3 @@ Download the [call](https://www.dropbox.com/s/wb8g49jgfnjzm0n/2015-Lamppost-Call
 Deadline to apply is July 31, 2015.
 
 Download the [call](https://www.dropbox.com/s/kidiu6vhdy4igdf/2015-12Foot12-Call.pdf?dl=0) and the [application form](https://www.dropbox.com/s/tbaxqvjnkslscmb/2015-12Foot12-Application.pdf?dl=0) here.
-
