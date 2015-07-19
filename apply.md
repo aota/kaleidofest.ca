@@ -36,7 +36,7 @@ Download the [call](https://www.dropbox.com/s/gulsjj02dgtpclh/2015-ArtisanMarket
 
 Deadline to apply is July 31, 2015.
 
-Download the [call](https://www.dropbox.com/s/7qnd6la8uza992b/2015-FoodVendor.pdf?dl=0) and [rules and regulations](https://www.dropbox.com/s/6v7sztvn43mstmp/2015-FoodVendor-RulesRegulations.pdf?dl=0) here.
+Download the [call](https://www.dropbox.com/s/7qnd6la8uza992b/2015-FoodVendor.pdf?dl=0) and [rules and regulations](https://www.dropbox.com/s/7z3n88zno6zf8da/2015-FoodVendor-Rules.pdf?dl=0) here.
 
 <iframe src="https://docs.google.com/forms/d/1MMhMNX_5PbE65LyjEKhha2K3sLskWjBzuk8XPTh5jLA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
