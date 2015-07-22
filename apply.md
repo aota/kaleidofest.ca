@@ -9,6 +9,7 @@ published: true
 
 
 
+
 # Apply Here
 
 ##Art Gallery
@@ -27,7 +28,7 @@ Download the [form](https://www.dropbox.com/s/8wt4u75zv1fd2x0/2015-ArtGallery.pd
  
 Come sell your art or craft at Kaleido! The Artisan Village is open Friday 8pm - 11pm, Saturday 12pm-9pm and Sunday Sunday 12pm - 6pm.
 
-Deadline to apply is July 23, 2015.
+Deadline to apply is July 31, 2015.
 
 Download the [call](https://www.dropbox.com/s/gulsjj02dgtpclh/2015-ArtisanMarket.pdf?dl=0) and the [rules and regulations](https://www.dropbox.com/s/hpot8e4puxijgyj/2015-ArtisanMarket-RulesRegulations.pdf?dl=0) here.
 
