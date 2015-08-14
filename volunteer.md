@@ -24,7 +24,7 @@ _**Bring a friend!**_ We'll have door prizes for the individual who brings the 
 
 **Tuesday, August 18, 2015 at the Alberta Avenue Community League, 6-8 pm**
 
-RSVP to kaleidofestivalevents@gmail.com or by registering on Eventbrite http://kaleido-volunteer-bbq.eventbrite.ca/
+RSVP to kaleidofestivalevents@gmail.com or by registering on [Eventbrite](http://www.eventbrite.ca/e/kaleido-volunteer-recruitment-beach-themed-bbq-dinner-tickets-17872039752) 
 
 Questions about volunteering? Contact kaleidovolunteers@gmail.com
 
