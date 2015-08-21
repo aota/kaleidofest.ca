@@ -9,7 +9,13 @@ Most content edits can be made via [Prose](http://prose.io). Use the [AOTA](http
 
 Using the [Github Pages gem][pages-gem].
 
-To match the live Github Pages environment, run `bundle update`. To run the Jekyll development server run `jekyll serve --watch` and load [localhost:4000](localhost:4000).
+To match the live Github Pages environment, run `bundle update`. To run the Jekyll development server run:
+
+```
+jekyll serve --watch
+```
+
+...then load [localhost:4000](localhost:4000).
 
 ### Plugins
 

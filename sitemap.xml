@@ -2,23 +2,27 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://kaleidofest.ca/about/</loc>
-        <lastmod>2015-06-28T22:25:27-06:00</lastmod>
+        <lastmod>2015-08-20T21:36:56-06:00</lastmod>
     </url>
     <url>
         <loc>http://kaleidofest.ca/apply/</loc>
-        <lastmod>2015-07-13T23:19:10-06:00</lastmod>
+        <lastmod>2015-08-20T21:36:56-06:00</lastmod>
     </url>
     <url>
         <loc>http://kaleidofest.ca/whats-on/arts-wares/</loc>
-        <lastmod>2015-06-28T22:25:27-06:00</lastmod>
+        <lastmod>2015-08-20T21:36:56-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://kaleidofest.ca/beer-gardens/</loc>
+        <lastmod>2015-08-20T21:42:43-06:00</lastmod>
     </url>
     <url>
         <loc>http://kaleidofest.ca/donate/</loc>
-        <lastmod>2015-06-28T22:25:27-06:00</lastmod>
+        <lastmod>2015-08-20T21:36:56-06:00</lastmod>
     </url>
     <url>
         <loc>http://kaleidofest.ca/greetings/</loc>
-        <lastmod>2015-06-28T22:25:27-06:00</lastmod>
+        <lastmod>2015-08-20T21:36:56-06:00</lastmod>
     </url>
     <url>
         <loc>http://kaleidofest.ca/</loc>
@@ -26,7 +30,7 @@
     </url>
     <url>
         <loc>http://kaleidofest.ca/info/</loc>
-        <lastmod>2015-06-28T22:25:27-06:00</lastmod>
+        <lastmod>2015-08-20T21:36:56-06:00</lastmod>
     </url>
     <url>
         <loc>http://kaleidofest.ca/map/</loc>
@@ -38,15 +42,15 @@
     </url>
     <url>
         <loc>http://kaleidofest.ca/media/</loc>
-        <lastmod>2015-06-28T22:25:27-06:00</lastmod>
+        <lastmod>2015-08-20T21:36:56-06:00</lastmod>
     </url>
     <url>
         <loc>http://kaleidofest.ca/news/</loc>
-        <lastmod>2015-06-28T22:25:27-06:00</lastmod>
+        <lastmod>2015-08-20T21:36:56-06:00</lastmod>
     </url>
     <url>
         <loc>http://kaleidofest.ca/whats-on/on-the-street/</loc>
-        <lastmod>2015-06-28T22:25:27-06:00</lastmod>
+        <lastmod>2015-08-20T21:36:56-06:00</lastmod>
     </url>
     <url>
         <loc>http://kaleidofest.ca/schedule/</loc>
@@ -58,22 +62,22 @@
     </url>
     <url>
         <loc>http://kaleidofest.ca/whats-on/theatre/</loc>
-        <lastmod>2015-06-28T22:25:27-06:00</lastmod>
+        <lastmod>2015-08-20T21:36:56-06:00</lastmod>
     </url>
     <url>
         <loc>http://kaleidofest.ca/whats-on/village/</loc>
-        <lastmod>2015-06-28T22:25:27-06:00</lastmod>
+        <lastmod>2015-08-20T21:36:56-06:00</lastmod>
     </url>
     <url>
         <loc>http://kaleidofest.ca/volunteer/</loc>
-        <lastmod>2015-07-13T22:51:19-06:00</lastmod>
+        <lastmod>2015-08-20T21:36:56-06:00</lastmod>
     </url>
     <url>
         <loc>http://kaleidofest.ca/whats-on/</loc>
-        <lastmod>2015-06-28T22:25:27-06:00</lastmod>
+        <lastmod>2015-08-20T21:36:56-06:00</lastmod>
     </url>
     <url>
         <loc>http://kaleidofest.ca/whats-on/workshops/</loc>
-        <lastmod>2015-06-28T22:25:27-06:00</lastmod>
+        <lastmod>2015-08-20T21:36:56-06:00</lastmod>
     </url>
 </urlset>

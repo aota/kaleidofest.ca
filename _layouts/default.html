@@ -36,6 +36,9 @@ layout: base
       {% when 'village.md' %}
         {% capture sidebar %}{% include side_village.md %}{% endcapture %}
         {{ sidebar | markdownify }}
+      {% when 'beer-gardens.md' %}
+        {% capture sidebar %}{% include side_beer.md %}{% endcapture %}
+        {{ sidebar | markdownify }}
     {% endcase %}
   </div>
 </div>
