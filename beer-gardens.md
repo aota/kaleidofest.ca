@@ -19,4 +19,4 @@ Sunday 12:00 pm – 5:00 pm
 Find the gardens in the parking lot of the Alberta Avenue Community League (**9210 – 118 Avenue**) near the main stage! See the [festival map](/map) for visual details. 
 
 ## Special Thanks
-Special thanks to our beer garden sponsor: [Yukon Brewing](http://yukonbeer.com). It really is _Beer Worth Freezin' For!_
+Special thanks to our beer garden sponsor: [Yukon Brewing](http://yukonbeer.com). It really is Beer Worth Freezin' For!

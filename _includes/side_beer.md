@@ -1,3 +1,1 @@
-<!-- ![]({{ site.uploads }}yukon-ad.jpg)
-<span class="caption">The Good Thief</span>
- -->
+[![Yukon Beer]({{ site.uploads }}yukon-ad.jpg)](http://yukonbeer.com)
