@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>kf2014-map.png.tif</Title>
+      <Title>kaleido-2015-map.jpg.tif</Title>
       <Abstract></Abstract>
       <SRS>PROJCS["unnamed",GEOGCS["unnamed ellipse",DATUM["unknown",SPHEROID["unnamed",6378137,0]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433]],PROJECTION["Mercator_1SP"],PARAMETER["central_meridian",0],PARAMETER["scale_factor",1],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]]]</SRS>
-      <BoundingBox minx="-42937517.87138571590185" miny="-20037508.33999999985099" maxx="-14312505.95710000023246" maxy="20037508.33999999985099"/>
-      <Origin x="-42937517.87138571590185" y="-20037508.33999999985099"/>
+      <BoundingBox minx="-20037508.33999999985099" miny="-37289803.02069333195686" maxx="20037508.33999999985099" maxy="-12429934.34019999951124"/>
+      <Origin x="-20037508.33999999985099" y="-37289803.02069333195686"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="raster">
-        <TileSet href="0" units-per-pixel="190833.41276190476492" order="0"/>
-        <TileSet href="1" units-per-pixel="95416.70638095238246" order="1"/>
-        <TileSet href="2" units-per-pixel="47708.35319047619123" order="2"/>
-        <TileSet href="3" units-per-pixel="23854.17659523809562" order="3"/>
+        <TileSet href="0" units-per-pixel="213733.42229333333671" order="0"/>
+        <TileSet href="1" units-per-pixel="106866.71114666666836" order="1"/>
+        <TileSet href="2" units-per-pixel="53433.35557333333418" order="2"/>
+        <TileSet href="3" units-per-pixel="26716.67778666666709" order="3"/>
+        <TileSet href="4" units-per-pixel="13358.33889333333354" order="4"/>
       </TileSets>
     </TileMap>
     
