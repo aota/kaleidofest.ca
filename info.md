@@ -40,11 +40,20 @@ Kaleido is FREE! Please donate what you can at the colourful donation tubes on s
 ### All Ages?
 Yes. All ages. Performances are G rated unless otherwise noted in the program.
 
-### Parking?
-Please see the [parking section on the Location page](/location#parking-at-kaleido).
-
 ### ATMs?
 There are two ATMs on site. Ask the info booth for locations.
+
+### Food?
+Be our guest! Come out and try local Alberta Avenue restaurants. There are 13 food trucks available on site. Enjoy their eats and our local bistros throughout the festival grounds from 90 – 94 St.
+
+### First Aid:
+For all medical emergencies, please go to the Info Booth (located on the Festival Square – 93 St & 118 Ave) where a First Aid professional will be contacted.
+
+### Smoking:
+We are a no smoking site! Smoking is not permitted in any place on the festival grounds where people gather. This includes all seating areas, line-ups, beer garden, family areas, dance areas, etc. If you smoke, please go to the side street of 91 St and 118 Ave. Please pinch and pocket your butts.
+
+### Parking?
+Please see the [parking section on the Location page](/location#parking-at-kaleido).
 
 ## Rain Or Shine
 
