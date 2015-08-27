@@ -6,30 +6,35 @@ published: true
 ---
 
 
+
 # A Taste Of On The Street
-
-**More info coming soon.**
-
-<!--
 
 **Saturday & Sunday!**
 
-## The Trollsons
-The Trollsons are a comedic family of Trolls from the Canadian forest. This family of fun-loving forest creatures mingle with the crowd, tell jokes, match-make, sing songs, dance, play music, read rune stones, tell tall troll tales, and generally cause mischief and merriment.
-[www.pangaea-arts.com](http://www.pangaea-arts.com)
+## Phileas Flash
+Prepare to be blindsided by the brilliant balloon creations of Phileas Flash. See him roving around the festival showcasing his incredible balloon installation at Kids World!
 
-## NEW! Fore!
-Jesse and Matt are back on the Links once again to putt around Kaleido and drive the audiences wild! Join these two hapless golfers as they hook, slice and wedge their way into your hearts.
+## Razzle!
+Get ready for Razzle the clown to dazzle you with games, juggling balls, balloons, and drawing material. She will be roving the site and she is sure to entertain!
 
-## The Happy Accidents
-Crazy antics, big smiles, clowns, clowns, clowns!
+## Morton The Magician
+Morton the Magician has jumped straight from the pages of his children’s book and has come to life! Experience Morton up close and personal as he dazzles audiences on the street.
 
-## NEW! Compliment Booth
-Have you ever wanted to tell someone the most wonderful things about them? Here is your chance to give and receive positive comments to someone you love. You could make someone’s day a lot brighter!
+## Chuck n Chicken
+Chuck n Chicken are the life of the party. Watch this roving comedic duo deliver hilarious jokes, songs and interactive gags guaranteed to please all ages.
 
-## National Stiltwalkers of Canada
-If there are no stiltwalkers, it’s not a Party! The National Stiltwalkers of Canada have been raising the bar on Fun since 2001.You can’t help but love their High Spirited Entertainment! High Five Everyone!
+## Elmo Presley
+Distant cousin to Elvis, Elmo Presley is an established lounge act that frequents the Las Vegas strip burning up the hearts of audiences with his infectious dance moves and crooning comedy.
+
+## Virtue and Vice 
+Virtue and Vice are the angel and devil on your shoulder governing your decisions...are you good or are you bad? Who will you choose? Watch for the festival favourite rovers Jesse Gervais and Matt Alden... your fate rests in the balance!
+
+## The White Cats
+A Kaleido tradition since 2007! Guerrilla jazz! These cool cats will tickle your fancy for jazzy, groovy tunes as they stroll the Ave with their instruments.
+
+## Mia’s Face and Body Painting 
+Mia has been face painting full time since 2004 and her creativity and style will bring a smile to everyone’s faces. Come visit Mia and let your inner child be released. (There is a fee at Mia’s booth per image.)
 
 ## And many more!...
 
--->
+
