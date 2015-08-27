@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 <!--# Sponsors Package
 
 Interested in sponsoring our festival? Get all the information you need in our info package below.
@@ -14,7 +15,7 @@ Interested in sponsoring our festival? Get all the information you need in our i
 
 # Donate to keep our festival growing!
 
-**Every dollar counts! You can donate any amount to Arts on the Ave via PayPal. Your generosity is sincerely appreciated.**
+**WE ARE A CHARITY! Every dollar counts! You can donate any amount to Arts on the Ave via Canada Helps. Your generosity is sincerely appreciated.**
 
 Creating a free arts festival is unheard of in today's world. So, how does Kaleido do it? With an incredible arts community, excellent supporters, super volunteers, and friends. We thank our supporters, advertisers, partners, fellow community-builders and artists for believing in the vision of Kaleido Family Arts Festival.
 
@@ -25,4 +26,6 @@ The Kaleido Festival brings the arts to Alberta Avenue accessibly and affordably
 Attracting people from the north-central communities and greater
 Edmonton, the Kaleido Family Arts Festival offers all Edmontonians
 the opportunity to experience and explore the richness and diversity
-of Edmonton's historic Alberta Avenue. **Help us keep going & growing!**
+of Edmonton's historic Alberta Avenue. 
+
+**Help us keep going & growing!**
