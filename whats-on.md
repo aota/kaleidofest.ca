@@ -79,7 +79,7 @@ Make your smile contagious this weekend as you and your loved ones smile in fron
 Walking past a lamppost? Look up! Artists will be creating elaborate ‘Under the Sea’ themed structures on Festival lampposts. Watch them emerge and make sure to vote for your favourite! Remember to vote!
 
 ## Junk in Your Trunk Garage Sale
-**92 St & 118 Ave (North side) SUNDAY ONLY: 12:00 pm – 6:00 pm**
+**SUNDAY ONLY: 12:00 pm – 6:00 pm | 92 St & 118 Ave (North side) **
 
 Join the coolest garage salers in town! Bring your cash and make someone’s junk your treasures!
 
