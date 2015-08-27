@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 # Festival Info
 
 ## The Info Booth - located on the Festival Square
@@ -65,14 +66,13 @@ All lost items will be deposited at the Info Booth. If something has been lost a
 In the case of a lost child, please contact any festival personnel or security for immediate assistance. Lost children will be cared for by festival staff. Please head over to the Info Booth (93 St & 118 Ave) for further assistance.
 
 ### What to Bring:
-•	Clothing for weather
-•	Comfortable footwear
-•	Sunscreen, hat, etc.
-•	Water bottle/mug
-•	Warm clothes for the evening 
-& possible rain gear
-•	A friend :)
+
+- Clothing for weather
+- Comfortable footwear
+- Sunscreen, hat, etc.
+- Water bottle/mug
+- Warm clothes for the evening & possible rain gear
+- A friend :)
 
 ### Keep It Clean / Remember your Neighbours:
 Please dispose garbage and recyclables in their appropriate places, including cigarette butts. Kaleido Family Arts Festival is a community festival. Please be mindful that our festival is planted in the Alberta Avenue District. Be neighbourly and respectful of our neighbours as you walk back and forth throughout our community – residential & commercial.
-
