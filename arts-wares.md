@@ -15,8 +15,9 @@ published: true
 2. St. Faith’s Anglican Church (11725 – 93 St)  
 3. The Carrot Community Arts Coffeehouse (9351 – 118 Ave)
 
-Every year, Kaleido Family Arts Festival features a lot of great visual artists. Be sure to feast your eyes on their amazing work - mixed media, painting, sculpture and photography just to name a few. If you find a piece you love (and we're sure you will) you can purchase it at the sales centre in the Nina Haggerty Centre for the Arts (9225 - 118 Ave).  
-_Debit, Visa, and Mastercard accepted._
+Every year, Kaleido Family Arts Festival features a lot of great visual artists. Be sure to feast your eyes on their amazing work - mixed media, painting, sculpture and photography just to name a few. 
+
+If you find a piece you love (and we're sure you will) you can purchase it at the sales centre in the Nina Haggerty Centre for the Arts (9225 - 118 Ave).  _Debit, Visa, and Mastercard accepted._
 
 
 ## Artisan village
