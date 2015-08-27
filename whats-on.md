@@ -42,14 +42,19 @@ Visit our licensed family area where you can enjoy a cold, alcoholic beverage or
 _Sponsored by: Yukon Brewing_
 
 ## Songs From the Ave: A campfire sing-a-long
-**Friday 8:00 pm | Takwakin Village (92 St & 118 Ave)**
+**FRIDAY 8:00 pm | Takwakin Village (92 St & 118 Ave)**
 
 The musicians from Songs From the Ave are here to remind us what it is we love most about this neighbourhood! Oh, and it’s around a campfire... and we get to sing along with them. Awesome.
 
 _Featuring: Scott Peters, Chris Wynters, Terry Morrison, Barry Westerlund, Paul Bellows, Randy Ritz, Jason Kodie and Bradley Moss._
 
+## Birthday Fireworks
+**SATURDAY ONLY 11:00 pm | Playground (Behind Alberta Avenue Community League)  
+
+Happy 10th birthday Kaleido! This year we are celebrating with Fireworks Saturday night at 11pm! Bring the kids and celebrate ten years of great community spirit!
+
 ## SKY LIFE
-**92 St & 118 Ave**
+**SATURDAY + SUNDAY | 92 St & 118 Ave**
 
 SKY LIFE is an imaginary explanation for the mysterious things we see in the sky. Through a fusion of circus, 
 stiltwalking and theatre, Firefly Theatre & Circus along with the National Stiltwalkers of Canada weave the classic fable of the 
