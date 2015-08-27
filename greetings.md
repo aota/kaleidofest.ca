@@ -8,6 +8,7 @@ published: true
 
 
 
+
 # Greetings
 
 
@@ -16,7 +17,9 @@ published: true
 **Christy Morin, Founder / Executive Director, Arts on the Ave Edmonton Society**
 
 **10 years... WOW!** Kaleido is now into the double digits! I am continually amazed and thankful for all the thousands of hours that our volunteers, boards, production teams, artists, supporters, donors, family and friends 
-have contributed to make Kaleido Family Arts Festival what it is today. Everything that we do is for a reason... to help people find their way, to share life together, to rebuild a community one stone at a time. This year at Kaleido, our production team has worked very hard to invite back special artists and performances that were highlights to us these past 10 years. Expect the unexpected around corners and rooftops, alleys and parks... this festival is living and breathing. It has been a privilege to encourage dialogues between artists, neighbours and businesses.
+have contributed to make Kaleido Family Arts Festival what it is today. Everything that we do is for a reason... to help people find their way, to share life together, to rebuild a community one stone at a time. 
+
+This year at Kaleido, our production team has worked very hard to invite back special artists and performances that were highlights to us these past 10 years. Expect the unexpected around corners and rooftops, alleys and parks... this festival is living and breathing. It has been a privilege to encourage dialogues between artists, neighbours and businesses.
 
 Kaleido is an artistic occupation of the Alberta Avenue Arts District - it reflects our many cultures, rituals, traditions, languages and soul. 
 
