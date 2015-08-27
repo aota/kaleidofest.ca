@@ -7,6 +7,7 @@ published: true
 
 
 
+
 # Festival Info
 
 ## The Info Booth - located on the Festival Square
@@ -29,7 +30,7 @@ Sunday, September 13: 10:30 am – 6:00 pm
 
 Please check performance schedules for details.
 
-## Rain Or Shine
+### Rain Or Shine
 Our festival carries on whether rain or shine. Bring clothing for outdoor and indoor fun, in case of inclement weather, head to the Info Booth.
 
 ### Festival Entrances?
