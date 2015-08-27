@@ -15,7 +15,9 @@ Interested in sponsoring our festival? Get all the information you need in our i
 
 # Donate to keep our festival growing!
 
-**WE ARE A CHARITY! Every dollar counts! You can donate any amount to Arts on the Ave via Canada Helps. Your generosity is sincerely appreciated.**
+**WE ARE A CHARITY! Every dollar counts!**
+
+**You can donate any amount to Arts on the Ave via Canada Helps. Your generosity is sincerely appreciated.**
 
 Creating a free arts festival is unheard of in today's world. So, how does Kaleido do it? With an incredible arts community, excellent supporters, super volunteers, and friends. We thank our supporters, advertisers, partners, fellow community-builders and artists for believing in the vision of Kaleido Family Arts Festival.
 
