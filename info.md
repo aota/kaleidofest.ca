@@ -19,15 +19,15 @@ This year we are selling limited-edition 10 year memorabilia T-shirts, hats and 
 
 For washroom locations, please see festival site map.
 
-## Programs?
-Programs for sale $2 at the Carrot prior to festival, and at the info and merch booths during festival.
+## Festival Guides? 
+Festival guides are for sale $2 at the Carrot prior to festival, and at the Info Booth (located on the Festival Square: 93 St & 118 Ave).
 
 ## Festival FAQs
 
 ### Festival Dates and Times?
-Friday, September 12: 8:00 pm – 12:30 am  
-Saturday, September 13: 10:00 am – 12:30 am and  
-Sunday, September 14: 12:00 pm – 6:00 pm
+Friday, September 11: 8:00 pm – 12:30 am  
+Saturday, September 12: 10:00 am – 12:30 am and  
+Sunday, September 13: 10:30 am – 6:00 pm
 
 Please check performance schedules for details.
 
