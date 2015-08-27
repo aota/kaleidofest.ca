@@ -7,15 +7,27 @@ published: true
 
 
 
+
 # What's On
 **Here's just a taste of some of the hundreds of acts Kaleido has in store for you. For all the juicy details, get a program at the festival!**
 
-## Pancake Breakfast
+## FREE Pancake Breakfast
 **SATURDAY 10:00 am – 12:00 pm**
 
 *630 CHED AVENUE CENTRAL STAGE 9210 – 118 Avenue*
 
-Enjoy a great pancake breakfast with all the trimmings, served up with a healthy dose of lively Edmonton entertainment. What a great way to start your day!
+Head over to the 630 CHED Avenue Central Stage and enjoy a pancake breakfast served with a heavy dose of lively Vocal Trash entertainment. 
+
+_Sponsored by: Save On Foods Stadium_
+
+## FREE Gospel Brunch!
+**SUNDAY 10:30 am – 12:00 pm**
+
+*630 CHED AVENUE CENTRAL STAGE 9210 – 118 Avenue*
+
+Head over to the 630 CHED Avenue Central Stage and enjoy a pancake breakfast served with live gospel entertainment featuring Eric Dozier and Edmonton singers. 
+
+_Sponsored by: St. Faith's Anglican Church_
 
 **More info coming soon!**
 
