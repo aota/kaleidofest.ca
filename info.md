@@ -53,7 +53,7 @@ For all medical emergencies, please go to the Info Booth (located on the Festiva
 We are a no smoking site! Smoking is not permitted in any place on the festival grounds where people gather. This includes all seating areas, line-ups, beer garden, family areas, dance areas, etc. If you smoke, please go to the side street of 91 St and 118 Ave. Please pinch and pocket your butts.
 
 ### Parking?
-Please see the [parking section on the Location page](/location#parking-at-kaleido).
+Please see the [parking section on the Location page](/location#parking-at-kaleido) for vehicular parking. _Bicycle parking available on 118 Ave_
 
 ## Rain Or Shine
 
