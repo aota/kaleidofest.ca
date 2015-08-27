@@ -59,17 +59,22 @@ Ugly Duckling with a mythical tale about constellations.
 
 
 ## 12FOOT12 Installation Challenge
-**118 Avenue & 91 Street**
+**91 St & 118 Ave**
 
-Cheer on artists and designers as they create an installation within a 12x12x12 foot space. There’s no telling what they’ll create!
+Artists take to the streets in this competition of creativity. 12x12x12 foot structures will emerge throughout the festival as teams build structures limited only by their imaginations. Vote for your favourite!
 
 ## Snap your Joy!
-**9225 – 118 AVE (IN FRONT OF NINA HAGGERTY CENTRE FOR THE ARTS)**
+**9225 – 118 AVE (In Front of Nina Haggerty Centre for the Arts)**
 
-When someone smiles at you, it's hard not to smile back, because joy is contagious. Smile in front of this unusual photo booth inspired by Soul Pancake and where people can snap their many expressions of joy, from laughter and excitement to contentment and success.
+Make your smile contagious this weekend as you and your loved ones smile in front of this unusual photo booth. Supported by The Shutterbugs and The Nipp Family.
+
+## Deck Out a Lampost!
+**On 118 Ave**
+
+Walking past a lamppost? Look up! Artists will be creating elaborate ‘Under the Sea’ themed structures on Festival lampposts. Watch them emerge and make sure to vote for your favourite! Remember to vote!
 
 ## Junk in Your Trunk Garage Sale
-**92 ST & 118 AVE | 12:00 – 6:00 pm**
+**92 St & 118 Ave (North side) SUNDAY ONLY: 12:00 pm – 6:00 pm**
 
-What happens when you take the "car" out of the "Garage"? You have an ingenious style of Garage Sale that uses the trunk of a car as the display window! Need stuff? We got stuff. Browse or Buy!
+Join the coolest garage salers in town! Bring your cash and make someone’s junk your treasures!
 
