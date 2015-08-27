@@ -31,38 +31,39 @@ P.S. - See you at the fireworks Saturday at 11:00 pm
 
 ## His Worship Mayor Don Iveson
 
-On behalf of City Council and the people of Edmonton, Alberta's Capital City, I welcome everyone to the Kaleido Family Arts Festival.
+On behalf of City Council and the people of Edmonton, Alberta’s Capital City, I welcome everyone to the 10th annual Kaleido Family Arts Festival.
 
-Now in its ninth year, this festival has quickly become a local favourite for Alberta Avenue residents and visitors alike. With a wide range of art and performances on the rooftops, buildings, streets, alleys, parks and even lamp posts of Alberta Avenue, the Kaleido Festival transforms one of Edmonton's historic neighbourhoods into a living stage.
+With performance and visual arts on display in a range of unconventional venues, this festival is a free, all-ages event that makes the arts accessible to everyone. Using rooftops, back alleys, parks and other public spaces, Kaleido helps support the vibrancy and character of Alberta Avenue, preserving one of our city’s beautiful mature neighbourhoods.
 
-Events like this help invigorate our city's older communities, making them safer and more welcoming year-round. I thank the Arts on the Ave team and the many artists, volunteers and sponsors who make this festival possible each year. Your efforts contribute to Edmonton's reputation as a vibrant City with a thriving arts and cultural scene.
+I thank the many artists, performers, volunteers and sponsors who make this festival possible each year. Their passion and enthusiasm enhance our city’s arts and culture scene and help make Edmonton an exciting and uplifting place to live.
 
-Have a fun-filled festival!
+Yours truly,
 
-Yours truly,  
 Don Iveson, Mayor
 
 
-## The Honourable Heather Klimchuk
+## The Honourable David Eggen
 
 **Minister of Culture**
 
-As minister responsible for culture, it is my great pleasure to welcome Edmontonians and visitors alike to the 2014 Kaleido Family Arts Festival.
+As Minister responsible for culture and tourism, it is my great pleasure to welcome everyone to the 2015 Kaleido Family Arts Festival!
 
-I am proud to see growth and development of Alberta Avenue as a hub of arts and culture. This vibrancy extends throughout the neighbourhood, offering families, friends and spectators the opportunity to explore the alleys, streets and spaces filled with performers and arts. The Kaleido Festival is a great example of how a community can transform ordinary streets into a magical experience.
+This annual festival is a great way to celebrate one of the most diverse and multicultural neighbourhoods in Edmonton. Albertans and visitors have the chance to take in the live street theatre, browse the handcrafted artisanal gifts and learn more about  heritage at the Takwakin Village. This is the tenth year of the festival and I encourage you to take the time to savour the richness of this event that has the atmosphere of a neighbourhood block party, but the values of a world-class celebration, right here in the city of festivals. 
 
-My thanks to Arts on the Ave for presenting this annual event and to all the performers, artists and volunteers for their invaluable contributions.
+My thanks to all of the volunteers, Arts on the Ave organizers, performers, participants and the sponsors for your continued support and contributions to the Kaleido Family Arts Festival. 
 
-Best wishes for an enjoyable festival!
+Enjoy the event!
 
-Heather Klimchuk, Minister
+David Eggen, Minister
 
 ## The Honourable Shelly Glover
 
 **Minister of Canadian Heritage and Official Languages**
 
-Our Government knows how important it is to provide our youth with opportunities to discover our country's heritage and explore the world of arts and culture. As we approach Canada's 150th birthday in 2017, we have a wonderful opportunity to help our young people discover what defines Canadian society and to encourage them to participate in it. Through its educational activities, the Kaleido Family Arts Festival provides a rewarding experience that is both entertaining and educational for the region's families.
+This year, the Kaleido Family Arts Festival turns 10, and our Government is pleased to highlight all that it brings to Alberta’s cultural scene. Each year, the festival invites young Canadians and their families to explore the arts while having fun and expanding their knowledge. In this way, it gives our youth the opportunity to grow and take part in the life of their community. What a wonderful way to prepare them to become creative and engaged citizens who want to make their neighbourhood and their region a great place to live!
 
-On behalf of Prime Minister Stephen Harper and the Government of Canada, I would like to thank Arts on the Ave and all the organizers, performers, and volunteers who helped bring this year's Kaleido Festival to life.
+On behalf of Prime Minister Stephen Harper and the Government of Canada, I thank everyone at Arts on the Ave and the artists and volunteers who make Edmonton’s Kaleido Festival possible. 
+
+Happy 10th anniversary; enjoy the festival!
 
 The Honourable Shelly Glover
