@@ -27,11 +27,13 @@ Kaleido takes place on the street, and this will have some effect on getting to 
 **You can park for free in the following areas:**
 
 Friday Night & Sunday:
+
 - North and south side of 118 Ave
 - ATB Parking Lot (8804 – 118 Ave)
 - Canadian Native Friendship Centre Parking Lot (11728 – 95 St)
 
 Saturday:
+
 - North side of 118 Ave
 - ATB Parking Lot (8804 – 118 Ave)
 - Canadian Native Friendship Centre Parking Lot (11728 – 95 St)
