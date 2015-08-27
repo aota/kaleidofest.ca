@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 {% comment %}
   This page is in Textile (not Markdown) because I needed to mix HMTL with one or the other and Markdown sucks for that.
   If there are any issues with this it probably just needs to be a straight HTML page.
@@ -28,72 +29,56 @@ h2. Sponsors
   <div class="columns large-6">
 
 
-h3. Cadmium Red Supporters $15,000+
+h3. HOOPLA $20,000+
 
-* 630 CHED | Corus Entertainment
+* 630 CHED
+* 92.5 Fresh FM
 * ABC Weddings
 * Alberta Foundation for the Arts
 * Avenue Initiative
 * Canadian Heritage
-* City of Edmonton
-* CISN
+* CISN FM
 * Edmonton Arts Council
 * Global Edmonton
 * iNews880
 * Northlands
-* 92.5 Fresh FM
+* SONiC 102.9
 
-h3. Phthalo Green Supporters $2000 – $15,000
+h3. RADICAL $9,000+
 
-* ATB Financial
+* Chateau Nova Kingsway
 * Don's Piano Place
-* Halina Boisvert
-* Habitat for Humanity
-* Mr. and Mrs. J. Bots
-* Mr. and Mrs. D.A. Morin
+* Epic Photography
 * Norwood Neighbourhood Association
-* Renaissance Hotel
-* Rotary Club of Edmonton Northeast
-* Save-on Foods
-* Sprucewood Branch of the Edmonton Public Library
-* Subway
-* Williams Engineering
-* zando & jot
+* Telus
+
 
 </div>
 <div class="columns large-6">
 
-h3. Cerulean Blue Supporters $250 – $2000
+h3. EXUBERANT $2,000
 
-* Alberta Avenue Business Association
-* Arts Habitat
-* ArtsHub 118
-* Avenue Magazine
+* Allstar Show Industries Inc.
 * Avenue Vineyard Community Church
 * Bedouin Beats
-* Bottom Line Productions
-* Edmonton Eskimos
-* Epic Photography
+* City Lumber
+* Cliff's Landscaping
 * Habitat for Humanity ReStore
-* Handi-Can
+* Halina Boisvert
 * Hong De Cultural & Athletic Association
-* Listen Louder Productions
 * Local 488
-* Long & McQuade
-* M.B. Barber Shop
-* Media Broadcast Inc.
 * Metis Regional Council Zone 4
-* Myhres Music
 * Nina Haggerty Centre for the Arts
 * Nightlife
-* Paraiso Tropical
+* Rebel Heart
 * Save-On Foods Stadium
-* Servus Credit Union
-* The Parish Church of St. Faith's & St. Stephen the Martyr
-* The Edmonton Chapter
 * sign-x limited
+* Sprucewood Branch of the Edmonton Public Library
+* St. Faith's Anglican Church
+* The Edmonton Shutterbugs
 * The Rat Creek Press
-* Yukon Brewery
+* Yukon Brewing
+* zando & jot
 
   </div>
 </div>
