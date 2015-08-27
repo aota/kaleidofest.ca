@@ -1,14 +1,11 @@
-![]({{ site.uploads }}trollsons.jpg)
-<span class="caption">The Trollsons</span>
+![]({{ site.uploads }}ChuckNChicken.jpg)
+<span class="caption">Chuck'N'Chicken</span>
 
-![]({{ site.uploads }}fore.jpg)
-<span class="caption">Fore!</span>
+![]({{ site.uploads }}MortonTheMagician.jpg)
+<span class="caption">Morton The Magician</span>
 
-![]({{ site.uploads }}happyaccidents.jpg)
-<span class="caption">The Happy Accidents</span>
+![]({{ site.uploads }}PhileasFlash.jpg)
+<span class="caption">Phileas Flash</span>
 
-![]({{ site.uploads }}complimentbooth.jpg)
-<span class="caption">Compliment Booth</span>
-
-![]({{ site.uploads }}stiltwalkers.jpg)
-<span class="caption">National Stiltwalkers of Canada</span>
+![]({{ site.uploads }}TheWhiteCats.jpg)
+<span class="caption">The White Cats</span>

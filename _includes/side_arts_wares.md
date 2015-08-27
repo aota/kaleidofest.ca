@@ -1,8 +1,12 @@
-![]({{ site.uploads }}wo-art-gallery-1.png)
-<span class="caption">Artist: Lorien Maheu</span>
 
-![]({{ site.uploads }}wo-art-gallery-2.png)
-<span class="caption">Artist: Mark Locchelli</span>
+![]({{ site.uploads }}AnemoneLost.jpg)
+<span class="caption">Artist: Anemone Lost</span>
 
-![]({{ site.uploads }}wo-art-gallery-3.png)
-<span class="caption">Artist: Charis Ng</span>
+![]({{ site.uploads }}ArchanaDazzlingDesigns.jpg)
+<span class="caption">Artist: Archana Dazzling Designs</span>
+
+![]({{ site.uploads }}IgorPotash.jpg)
+<span class="caption">Artist: Igor Potash</span>
+
+![]({{ site.uploads }}LeanneSchnierer.jpg)
+<span class="caption">Artist: Leanne Schnierer</span>
