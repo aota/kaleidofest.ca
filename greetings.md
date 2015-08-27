@@ -7,6 +7,7 @@ published: true
 
 
 
+
 # Greetings
 
 
@@ -23,6 +24,7 @@ Thank you to each of you for finding us and making Kaleido Family Arts Festival 
 your lives.
 
 Here’s to the next decade!
+
 God Bless,
 
 Christy Morin
