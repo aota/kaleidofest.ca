@@ -60,7 +60,7 @@ SKY LIFE is an imaginary explanation for the mysterious things we see in the sky
 stiltwalking and theatre, Firefly Theatre & Circus along with the National Stiltwalkers of Canada weave the classic fable of the 
 Ugly Duckling with a mythical tale about constellations. 
 
-**SHOWTIMES:**Saturday 2:00 pm, 6:00 pm | Sunday 2:00 pm, 4:00 pm
+**SHOWTIMES:** Saturday 2:00 pm, 6:00 pm | Sunday 2:00 pm, 4:00 pm
 
 
 ## 12FOOT12 Installation Challenge
