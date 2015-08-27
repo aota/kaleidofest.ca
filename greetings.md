@@ -2,7 +2,9 @@
 layout: default
 permalink: /greetings/
 title: Greetings
+published: true
 ---
+
 
 # Greetings
 
@@ -11,14 +13,19 @@ title: Greetings
 
 **Christy Morin, Founder / Executive Director, Arts on the Ave Edmonton Society**
 
-Welcome to our 9th Kaleido Family Arts Festival. This unique festival has been built on community, passion, and creativity. Each year, this festival shares how the arts and community together bring joy, laughter and friendship to a neighbourhood that had lost vision of its beauty, history and identity. Its spirit was lost...we are thrilled to be part of the rebuilding of the Alberta Avenue District. Rebuilding takes commitment for the long haul, and I am happy to share that we are here and not leaving. Thank you to each of you, our partners, community supporters, production team, volunteers, performers, neighbours, and funders for believing with us that change starts with one smile, one volunteer hour or one coffee shared with another.
+**10 years... WOW!** Kaleido is now into the double digits! I am continually amazed and thankful for all the thousands of hours that our volunteers, boards, production teams, artists, supporters, donors, family and friends 
+have contributed to make Kaleido Family Arts Festival what it is today. Everything that we do is for a reason... to help people find their way, to share life together, to rebuild a community one stone at a time. This year at Kaleido, our production team has worked very hard to invite back special artists and performances that were highlights to us these past 10 years. Expect the unexpected around corners and rooftops, alleys and parks... this festival is living and breathing. It has been a privilege to encourage dialogues between artists, neighbours and businesses.
 
-This year's theme is Relish! Relish Kaleido! Relish your time with family and friends! Relish life on the Ave!
+Kaleido is an artistic occupation of the Alberta Avenue Arts District - it reflects our many cultures, rituals, traditions, languages and soul. 
 
-From our family to yours - have a wonderful time at the festival, come back and visit soon!
+Thank you to each of you for finding us and making Kaleido Family Arts Festival a part of 
+your lives.
 
-God Bless,  
+Here’s to the next decade!
+God Bless,
+
 Christy Morin
+P.S. - See you at the fireworks Saturday at 11:00 pm
 
 
 
