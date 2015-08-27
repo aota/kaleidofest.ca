@@ -38,8 +38,7 @@ Unquestionably, art impacts our daily lives. For the next 3 days it will transfo
 
 My thanks go to the organizers, volunteers, and especially the artists of this wonderful festival. Your hard work and dedication help to transform our communities into beautiful works of art. 
 
-Rachel Notley
-Premier of Alberta
+Rachel Notley, Premier of Alberta
 
 ## His Worship Mayor Don Iveson
 
