@@ -29,6 +29,18 @@ Head over to the 630 CHED Avenue Central Stage and enjoy a pancake breakfast ser
 
 _Sponsored by: St. Faith's Anglican Church_
 
+
+## Family Beer Gardens
+**9210–118 Avenue**
+
+Visit our licensed family area where you can enjoy a cold, alcoholic beverage or have a coffee, and listen to great music at the same time. *All ages welcome.*
+
+* Friday 8:00 pm – 11:00 pm
+* Saturday Noon – 10:00 pm
+* Sunday Noon – 5:00 pm
+
+_Sponsored by: Yukon Brewing_
+
 **More info coming soon!**
 
 <!--## Capoeira Annual Event & Belt Ceremony
@@ -63,12 +75,4 @@ What happens when you take the "car" out of the "Garage"? You have an ingenious 
 **Park Playground (9210 – 118 Avenue) at 3:30 pm**
 
 An energy-charged performance of circus techniques fuelled by African drums.
-
-## Family Beer Gardens
-**9210–118 Avenue**
-
-Visit our licensed family area where you can enjoy a cold beverage and listen to great music at the same time. *All ages welcome.*
-
-* Friday 8:00 pm – 11:00 pm
-* Saturday 12:00 pm – 10:00 pm
-* Sunday 12:00 pm – 5:00 pm-->
+-->
