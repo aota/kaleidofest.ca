@@ -49,7 +49,7 @@ The musicians from Songs From the Ave are here to remind us what it is we love m
 _Featuring: Scott Peters, Chris Wynters, Terry Morrison, Barry Westerlund, Paul Bellows, Randy Ritz, Jason Kodie and Bradley Moss._
 
 ## Birthday Fireworks
-**SATURDAY ONLY 11:00 pm | Playground (Behind Alberta Avenue Community League)  
+**SATURDAY ONLY 11:00 pm | Playground (Behind Alberta Avenue Community League)** 
 
 Happy 10th birthday Kaleido! This year we are celebrating with Fireworks Saturday night at 11pm! Bring the kids and celebrate ten years of great community spirit!
 
