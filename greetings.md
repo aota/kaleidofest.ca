@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 # Greetings
 
 
@@ -28,6 +29,17 @@ Christy Morin
 P.S. - See you at the fireworks Saturday at 11:00 pm
 
 
+
+## The Honourable Rachel Notley
+
+On behalf of the Government of Alberta, I am delighted to welcome you to  the 10th anniversary of the Kaleido Family Arts Festival.
+
+Unquestionably, art impacts our daily lives. For the next 3 days it will transform the streets of Alberta Avenue into a place that awakens us, inspires  us, and delights us. This festival is all about sharing our passion for the arts with our friends, neighbours, and everyone throughout Edmonton. I hope you have the opportunity to let your creative side explore the streets of the Alberta Avenue Arts District. 
+
+My thanks go to the organizers, volunteers, and especially the artists of this wonderful festival. Your hard work and dedication help to transform our communities into beautiful works of art. 
+
+Rachel Notley
+Premier of Alberta
 
 ## His Worship Mayor Don Iveson
 
