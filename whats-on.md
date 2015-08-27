@@ -41,6 +41,15 @@ Visit our licensed family area where you can enjoy a cold, alcoholic beverage or
 
 _Sponsored by: Yukon Brewing_
 
+## SKY LIFE
+**92 St & 118 Ave**
+
+SKY LIFE is an imaginary explanation for the mysterious things we see in the sky. Through a fusion of circus, 
+stiltwalking and theatre, Firefly Theatre & Circus along with the National Stiltwalkers of Canada weave the classic fable of the 
+Ugly Duckling with a mythical tale about constellations. 
+
+**SHOWTIMES:**Saturday 2:00 pm, 6:00 pm | Sunday 2:00 pm, 4:00 pm
+
 **More info coming soon!**
 
 <!--## Capoeira Annual Event & Belt Ceremony
