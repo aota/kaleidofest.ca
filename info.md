@@ -5,16 +5,19 @@ title: Info
 published: true
 ---
 
+
 # Festival Info
 
-## The Info Booth - Avenue Central Midway
-**Friday Night, Saturday & Sunday All Day** *Sponsored by iNews 880AM*
+## The Info Booth - located on the Festival Square
+**Friday Night, Saturday & Sunday All Day | 93 St & 118 Ave** 
 
-Head over to the Info Booth (9210-118 Avenue) and pick up
-some great Kaleido merchandise. We will be selling festival musicians’
-CDs and merch, The Carrot Arts Coffeehouse travel mugs, Kaleido festival
-T-shirts, and much more. Also at the booth: Programs, first aid, lost &
-found, and Alberta Avenue restaurant maps.
+*Sponsored by iNews 880AM*
+
+Head over to the Info Booth (93 St & 118 Ave) and pick up some great Kaleido merchandise. 
+
+This year we are selling limited-edition 10 year memorabilia T-shirts, hats and cups. Be sure to get yours before they’re gone! We will also be selling festival musicians’ CDs and merch, The Carrot Arts Comunity Coffeehouse mugs, and much more. Also at the booth: Festival Guides, first aid, lost & found, and Alberta Avenue restaurant maps.
+
+For washroom locations, please see festival site map.
 
 ## Programs?
 Programs for sale $2 at the Carrot prior to festival, and at the info and merch booths during festival.
