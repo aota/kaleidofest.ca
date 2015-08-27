@@ -1,3 +1,5 @@
+{% include side_download.md %}
+
 ![]({{ site.uploads }}wo-songsave.jpg)
 
 ![]({{ site.uploads }}wo-skylife.jpg)

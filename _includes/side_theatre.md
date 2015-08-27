@@ -1,3 +1,6 @@
+{% include side_download.md %}
+
+<!--
 ![]({{ site.uploads }}theatre-goodthief.jpg)
 <span class="caption">The Good Thief</span>
 
@@ -12,3 +15,4 @@
 
 ![]({{ site.uploads }}theatre-poetryslam.jpg)
 <span class="caption">Words We ‘Ave Poetry Slam</span>
+ -->

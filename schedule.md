@@ -9,6 +9,8 @@ published: true
 
 **Coming soon.**
 
+{% include side_download.md %}
+
 {% comment %}
 
 <div class="section-container auto" data-section data-options="deep_linking: true">
