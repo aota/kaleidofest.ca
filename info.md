@@ -17,7 +17,7 @@ published: true
 
 Head over to the Info Booth (93 St & 118 Ave) and pick up some great Kaleido merchandise. 
 
-This year we are selling limited-edition 10 year memorabilia T-shirts, hats and cups. Be sure to get yours before they’re gone! We will also be selling festival musicians’ CDs and merch, The Carrot Arts Comunity Coffeehouse mugs, and much more. Also at the booth: Festival Guides, first aid, lost & found, and Alberta Avenue restaurant maps.
+**This year we are selling limited-edition 10 year memorabilia T-shirts, hats and cups. Be sure to get yours before they’re gone!** We will also be selling festival musicians’ CDs and merch, The Carrot Arts Comunity Coffeehouse mugs, and much more. Also at the booth: Festival Guides, first aid, lost & found, and Alberta Avenue restaurant maps.
 
 For washroom locations, please see festival site map.
 
