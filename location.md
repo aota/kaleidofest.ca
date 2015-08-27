@@ -1,11 +1,12 @@
 ---
 layout: map
-permalink: "/map/"
-redirect_from: "/location/"
+permalink: /map/
+redirect_from: /location/
 title: Location
 headline: Festival Map
 published: true
 ---
+
 
 
 ## Getting to Kaleido
@@ -25,12 +26,17 @@ Kaleido takes place on the street, and this will have some effect on getting to 
 
 **You can park for free in the following areas:**
 
-- St Faith's Anglican Church Parking Lot
-- ATB financial parking lot
-- 95th street 117<sup>th</sup> ave, south west parking lot
-- Street parking down 118<sup>th</sup> Ave except for closure area (see below)
+Friday Night & Sunday:
+- North and south side of 118 Ave
+- ATB Parking Lot (8804 – 118 Ave)
+- Canadian Native Friendship Centre Parking Lot (11728 – 95 St)
 
-**Note: Saturday evening there is an Eskimos game, which means you cannot park on residential streets south of 118<sup>th</sup> Ave to 112<sup>th</sup> Ave in the Stadium area without a permit. You will be ticketed and/or towed.**
+Saturday:
+- North side of 118 Ave
+- ATB Parking Lot (8804 – 118 Ave)
+- Canadian Native Friendship Centre Parking Lot (11728 – 95 St)
+
+**Note: Please be aware that there is an Edmonton Eskimos football game on Saturday, September 12 at 6:00 pm. If you are coming by vehicle, please be aware of the parking ban on the south side of 118 Avenue. The City of Edmonton will be ticketing and towing.**
 
 There are many spaces to park, but if you can walk or take transit it helps those who cannot a great deal.
 
