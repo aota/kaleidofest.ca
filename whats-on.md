@@ -41,6 +41,13 @@ Visit our licensed family area where you can enjoy a cold, alcoholic beverage or
 
 _Sponsored by: Yukon Brewing_
 
+## Songs From the Ave: A campfire sing-a-long
+**Friday 8:00 pm | Takwakin Village (92 St & 118 Ave)**
+
+The musicians from Songs From the Ave are here to remind us what it is we love most about this neighbourhood! Oh, and it’s around a campfire... and we get to sing along with them. Awesome.
+
+_Featuring: Scott Peters, Chris Wynters, Terry Morrison, Barry Westerlund, Paul Bellows, Randy Ritz, Jason Kodie and Bradley Moss._
+
 ## SKY LIFE
 **92 St & 118 Ave**
 
@@ -50,12 +57,6 @@ Ugly Duckling with a mythical tale about constellations.
 
 **SHOWTIMES:**Saturday 2:00 pm, 6:00 pm | Sunday 2:00 pm, 4:00 pm
 
-**More info coming soon!**
-
-<!--## Capoeira Annual Event & Belt Ceremony
-**91 Street & 118 Avenue - Saturday 3:30pm – 6:00 pm**
-
-Capoeira is an acrobatic martial art and dance form from Brazil. Once a year Capoeira students congregate to demonstrate their acrobatic skills and challenge their masters to earn a new belt. Featuring highly skilled masters visiting from across North America and Brazil, this ceremony is a spectacle that shouldn’t be missed!
 
 ## 12FOOT12 Installation Challenge
 **118 Avenue & 91 Street**
@@ -67,21 +68,8 @@ Cheer on artists and designers as they create an installation within a 12x12x12 
 
 When someone smiles at you, it's hard not to smile back, because joy is contagious. Smile in front of this unusual photo booth inspired by Soul Pancake and where people can snap their many expressions of joy, from laughter and excitement to contentment and success.
 
-## Tsunami Brothers
-**Arts Hub 118 Back Balcony Saturday at 3:30 pm**
-
-Surf’s up! Way up! Catch the Tsunami wave of fabulous retro music.
-
-## Spandy Andy
-Spandy Andy will leave you bewildered with his zany dance moves, quirky personality and vibrant spandex outfits. WARNING: this boy's smile is infectious!
-
 ## Junk in Your Trunk Garage Sale
 **92 ST & 118 AVE | 12:00 – 6:00 pm**
 
 What happens when you take the "car" out of the "Garage"? You have an ingenious style of Garage Sale that uses the trunk of a car as the display window! Need stuff? We got stuff. Browse or Buy!
 
-## Kalabanté Acrobatics
-**Park Playground (9210 – 118 Avenue) at 3:30 pm**
-
-An energy-charged performance of circus techniques fuelled by African drums.
--->
