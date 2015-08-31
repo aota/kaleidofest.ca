@@ -38,7 +38,11 @@ Questions about volunteering? Contact kaleidovolunteers@gmail.com
 
 Join us on Tuesday, September 8 as we gear up for the 10th annual Kaleido Festival at our volunteer orientation. This is your chance to meet your crew leaders and fellow volunteers, and to find out about all the details and get trained for your jobs for Kaleido. 
 
+[RSVP HERE](kaleidovolunteerorientation.eventbrite.com)or email kaleidofestivalevents@gmail.com. 
+
 **Haven't signed up yet? No problem! We're still looking for volunteers and would be happy to find you a shift or two to help out at this year's festival.**
+
+See you there!
 
 ## Volunteer Application
 
