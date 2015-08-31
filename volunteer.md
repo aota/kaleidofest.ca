@@ -10,6 +10,7 @@ published: true
 
 
 
+
 # Be a Kaleido Volunteer
 
 Interested in being part of a wonderful community arts event on The Ave? At Kaleido Family Arts Festival 2015 we continue to build our team and would love to hear from you!
@@ -33,10 +34,11 @@ Questions about volunteering? Contact kaleidovolunteers@gmail.com
 
 ## Festival Training & Orientation
 
-**Tuesday, September 8, 2015** More info to come.
+**Tuesday, September 8, 2015**
 
-Meet the team you'll be working with & learn your job.
-Enjoy more yummy food!
+Join us on Tuesday, September 8 as we gear up for the 10th annual Kaleido Festival at our volunteer orientation. This is your chance to meet your crew leaders and fellow volunteers, and to find out about all the details and get trained for your jobs for Kaleido. 
+
+**Haven't signed up yet? No problem! We're still looking for volunteers and would be happy to find you a shift or two to help out at this year's festival.**
 
 ## Volunteer Application
 
