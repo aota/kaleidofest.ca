@@ -9,7 +9,6 @@
   <li><span class="ordinal ordinal-small">7</span> <a href="#stage-7">Nina Back Alley Stage</a></li>
   <li><span class="ordinal ordinal-small">8</span> <a href="#stage-8">St. Faith’s Anglican Church</a></li>
   <li><span class="ordinal ordinal-small">9</span> <a href="#stage-9">Don’s Grand Piano Gallery Stage</a></li>
-  <li><span class="ordinal ordinal-small">10</span> <a href="#stage-10">Takwakin Village</a></li>
   <li><span class="ordinal ordinal-small">11</span> <a href="#stage-11">Cultural Stage</a></li>
   <li><span class="ordinal ordinal-small">12</span> <a href="#stage-12">Rhythm Speaks Hip Hop Stage</a></li>
   <li><span class="ordinal ordinal-small">14</span> <a href="#stage-14">Paraiso Tropical Balcony</a></li>
