@@ -11,6 +11,7 @@ assets: /assets/
 uploads: /uploads/
 
 gems:
+  - jekyll-sitemap
   - jekyll-redirect-from
 
 sass:
