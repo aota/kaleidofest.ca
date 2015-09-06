@@ -3,12 +3,17 @@ layout: base
 ---
 
 <div class="row">
-  <div class="column large-8">
+  <div class="column large-12">
     {% if page.headline %}<h1>{{ page.headline }}</h1>{% endif %}
     <div id="map" class="map"></div>
   </div>
+</div>
+
+<div class="row">
+  <div class="columns large-8">
+    {{ content }}
+  </div>
   <div class="columns large-4">
-    {% include side_download.md %}
 
     <h2>Venues</h2>
     <ol class="listless">
@@ -42,16 +47,10 @@ layout: base
       <li>Nina Haggerty Centre for the Arts</li>
       <li>Don's Grand Piano Gallery Stage</li>
       <li>Bleeding Hearts (Independent)</li>
+      <li>St. Faith's Anglican Church (Youth Gallery)</li>
     </ol>
-  </div>
-</div>
 
-<div class="row">
-  <div class="columns large-8">
-    {{ content }}
-  </div>
-  <div class="columns large-4">
-  <!-- download PDF map -->
+    {% include side_download.md %}
   </div>
 </div>
 
@@ -60,7 +59,7 @@ layout: base
   // initialize the map on the "map" div
   var opts = {
     scrollWheelZoom: false,
-    center: [-66.93006025862447,-64.16015624999999],
+    center: [-65.36683689226321,1.40625],
     zoom: 2,
     // center: [-73.07,-76.46],
     // zoom: 3,
@@ -73,8 +72,8 @@ layout: base
 
   // festival map image TMS layer
   L.tileLayer('/maptiles/{z}/{x}/{y}.png', {
-      maxZoom: 4,
-      minZoom: 1,
+      maxZoom: 3,
+      minZoom: 0,
       tms: true
   }).addTo(map);
 
