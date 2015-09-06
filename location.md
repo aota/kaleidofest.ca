@@ -10,6 +10,7 @@ published: true
 
 
 
+
 ## Getting to Kaleido
 
 Kaleido Family Arts Festival is located in the heart of Edmonton's newest arts district, Alberta Avenue.
@@ -45,4 +46,5 @@ There are many spaces to park, but if you can walk or take transit it helps thos
 
 118 Ave will be closed from 90-94 Street from Friday, September 11, 2015 at 2:00 pm until Sunday, September 13, 2015 at 8:00 pm to make way for the Kaleido Family Arts Festival.
 
-![map of road closures]({{ site.assets }}img/kaleido-road-closures.png)
+![map of road closures]({{site.baseurl}}/uploads/roadclosure.jpg)
+
