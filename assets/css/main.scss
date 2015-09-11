@@ -3,47 +3,8 @@
 # See http://jekyllrb.com/docs/assets/
 ---
 
-// custom vars
-// see foundation/variables.scss for Foundation settings.
-
-// colors etc...
-$white: #fff;
-$black: #000;
-
-$primary-color: #33a1c5;
-$secondary-color: #115468;
-
-$orange: #db396e;
-
-// $red: #DA4E2B;
-// $orange: #91832A;
-$yellow: #fff;
-
-$baige: #f9e8d9;
-
-// font families
-// $header-font-family: 'jaf-bernino-sans-comp'; // 400, 700
-// $header-font-weight: 400;
-// $alt-font-family: 'jaf-bernino-sans-comp'; // 700
-// $alt-font-weight: 700;
-
-// type sizes
-$tera: 117px;
-$giga: 90px;
-$mega: 72px;
-
-$alpha: 48px;
-$beta: 32px;
-$gamma: 24px;
-$delta: 21px;
-$epsilon: 18px;
-$zeta: 18px;
-
-$milli: 15px;
-$micro: 12px;
-
-
-
+// sass variables
+@import "variables";
 
 // bourbon.io mixins
 @import "bourbon/bourbon";

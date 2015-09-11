@@ -2,15 +2,20 @@ $bg-fri: rgb(220,96,76);
 $bg-sat: rgb(87,67,130);
 $bg-sun: rgb(103,166,64);
 
+
+
 .timetable {
   width: 100%;
   margin-bottom: 10px;
+  border-color: lighten($secondary-color, 50%);
 
   tr > td {
     color: $secondary-color;
+    background: lighten($primary-color, 45%);
   }
   tr:nth-child(2n) > td {
-    color: $primary-color;
+    color: $orange;
+    background: $white;
   }
 
   td > small {
