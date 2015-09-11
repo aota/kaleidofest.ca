@@ -8,8 +8,16 @@ published: true
 
 
 
+
 # What's On
 **Here's just a taste of some of the hundreds of acts Kaleido has in store for you. For all the juicy details, get a program at the festival!**
+
+
+## Installation: Melissa Cayford
+**Untitled**
+
+This installation was created from the contours of the artist's community.  It was then recreated in plush form to give the viewer a sense of comfort and nostalgia about the location that they live in. This in turn invites the viewer to interact with the installation. Art is usually about looking without touching, however you are encouraged to touch and interact with this installation.
+
 
 ## FREE Pancake Breakfast
 **SATURDAY 10:00 am – 12:00 pm**
@@ -82,4 +90,3 @@ Walking past a lamppost? Look up! Artists will be creating elaborate ‘Under th
 **SUNDAY ONLY: 12:00 pm – 6:00 pm | 92 St & 118 Ave (North side)**
 
 Join the coolest garage salers in town! Bring your cash and make someone’s junk your treasures!
-
