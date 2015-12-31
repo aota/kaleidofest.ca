@@ -8,6 +8,7 @@ published: true
 
 
 
+
 # About
 
 ## Kaleido Family Arts Festival
@@ -32,3 +33,9 @@ Visit [artsontheave.org](http://artsontheave.org).
 Now you can donate (one time or monthly) online and receive a tax reciept for your amazing support. Click the Canada Helps button below and start giving! 
 
 <A HREF="https://www.canadahelps.org/CharityProfilePage.aspx?CharityID=d109438"><IMG SRC="//www.canadahelps.org/image/DonateNowLink/en/Donate2.png" BORDER="0" ALT="Donate Now Through CanadaHelps.org!"/></A>
+
+## Media: Recent videos
+
+Arts on the Ave is revitalizing and bringing life to 118 Avenue. View the story by ShawTV here. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9dveEj2NnoI" frameborder="0" allowfullscreen></iframe>
